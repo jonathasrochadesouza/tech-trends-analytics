@@ -1,0 +1,2835 @@
+{
+    "Blockchain": {
+        "yearly_stats": [
+            {
+                "year": 2020,
+                "count": 20746,
+                "top_articles": [
+                    {
+                        "title": "The role of artificial intelligence in achieving the Sustainable Development Goals",
+                        "author": [
+                            "Ricardo Vinuesa",
+                            "Hossein Azizpour",
+                            "Iolanda Leite",
+                            "Madeline Balaam",
+                            "Virginia Dignum",
+                            "Sami Domisch",
+                            "Anna Felländer",
+                            "Simone D. Langhans",
+                            "Max Tegmark",
+                            "Francesco Fuso Nerini"
+                        ],
+                        "abstract": "No abstract available.",
+                        "pub_year": 2020,
+                        "url": "https://doi.org/10.1038/s41467-019-14108-y",
+                        "keywords": [
+                            "Accountability",
+                            "Transparency (behavior)",
+                            "Sustainable development",
+                            "Productivity",
+                            "Computer science"
+                        ]
+                    },
+                    {
+                        "title": "An overview of clinical decision support systems: benefits, risks, and strategies for success",
+                        "author": [
+                            "Reed T. Sutton",
+                            "David Pincock",
+                            "Daniel C. Baumgart",
+                            "Daniel Sadowski",
+                            "Richard N. Fedorak",
+                            "Karen I. Kroeker"
+                        ],
+                        "abstract": "No abstract available.",
+                        "pub_year": 2020,
+                        "url": "https://doi.org/10.1038/s41746-020-0221-y",
+                        "keywords": [
+                            "Risk analysis (engineering)",
+                            "Decision support system",
+                            "Management science",
+                            "Computer science",
+                            "Business"
+                        ]
+                    },
+                    {
+                        "title": "Digital Twin: Enabling Technologies, Challenges and Open Research",
+                        "author": [
+                            "Aidan Fuller",
+                            "Zhong Fan",
+                            "Charles Day",
+                            "Chris Barlow"
+                        ],
+                        "abstract": "Digital Twin technology is an emerging concept that has become the centre of\\nattention for industry and, in more recent years, academia. The advancements in\\nindustry 4.0 concepts have facilitated its growth, particularly in the\\nmanufacturing industry. The Digital Twin is defined extensively bu...",
+                        "pub_year": 2020,
+                        "url": "https://doi.org/10.1109/access.2020.2998358",
+                        "keywords": [
+                            "Computer science",
+                            "Open research",
+                            "World Wide Web"
+                        ]
+                    },
+                    {
+                        "title": "A Systematic Review of the Literature on Digital Transformation: Insights and Implications for Strategy and Organizational Change",
+                        "author": [
+                            "André Hanelt",
+                            "René Bohnsack",
+                            "David Marz",
+                            "Claudia Marante"
+                        ],
+                        "abstract": "Abstract In this article we provide a systematic review of the extensive yet diverse and fragmented literature on digital transformation (DT), with the goal of clarifying boundary conditions to investigate the phenomenon from the perspective of organizational change. On the basis of 279 articles,...",
+                        "pub_year": 2020,
+                        "url": "https://doi.org/10.1111/joms.12639",
+                        "keywords": [
+                            "Phenomenon",
+                            "Digital transformation",
+                            "Adaptation (eye)",
+                            "Knowledge management",
+                            "Organizational change"
+                        ]
+                    },
+                    {
+                        "title": "Towards 6G wireless communication networks: vision, enabling technologies, and new paradigm shifts",
+                        "author": [
+                            "Xiaohu You",
+                            "Cheng‐Xiang Wang",
+                            "Jie Huang",
+                            "Xiqi Gao",
+                            "Zaichen Zhang",
+                            "Mao Wang",
+                            "Yongming Huang",
+                            "Chuan Zhang",
+                            "Yanxiang Jiang",
+                            "Jiaheng Wang",
+                            "Min Zhu",
+                            "Bin Sheng",
+                            "Dongming Wang",
+                            "Zhiwen Pan",
+                            "Pengcheng Zhu",
+                            "Yang Yang",
+                            "Zening Liu",
+                            "Ping Zhang",
+                            "Xiaofeng Tao",
+                            "Shaoqian Li",
+                            "Zhi Chen",
+                            "Xinying Ma",
+                            "I Chih‐Lin",
+                            "Shuangfeng Han",
+                            "Ke Li",
+                            "Chengkang Pan",
+                            "Zhimin Zheng",
+                            "Lajos Hanzo",
+                            "Xuemin Shen",
+                            "Y. Jay Guo",
+                            "Zhiguo Ding",
+                            "Harald Haas",
+                            "Wen Tong",
+                            "Peiying Zhu",
+                            "Ganghua Yang",
+                            "Jun Wang",
+                            "Erik G. Larsson",
+                            "Hien Quoc Ngo",
+                            "Wei Hong",
+                            "Haiming Wang",
+                            "Debin Hou",
+                            "Jixin Chen",
+                            "Zhe Chen",
+                            "Zhang‐Cheng Hao",
+                            "Geoffrey Ye Li",
+                            "Rahim Tafazolli",
+                            "Yue Gao",
+                            "H. Vincent Poor",
+                            "Gerhard Fettweis",
+                            "Ying‐Chang Liang"
+                        ],
+                        "abstract": "No abstract available.",
+                        "pub_year": 2020,
+                        "url": "https://doi.org/10.1007/s11432-020-2955-6",
+                        "keywords": [
+                            "Computer science",
+                            "Network architecture",
+                            "Wireless network",
+                            "Wireless",
+                            "Computer network"
+                        ]
+                    }
+                ]
+            },
+            {
+                "year": 2021,
+                "count": 26490,
+                "top_articles": [
+                    {
+                        "title": "Industry 5.0: A survey on enabling technologies and potential applications",
+                        "author": [
+                            "Praveen Kumar Reddy Maddikunta",
+                            "Quoc‐Viet Pham",
+                            "B. Prabadevi",
+                            "N. Deepa",
+                            "Kapal Dev",
+                            "Thippa Reddy Gadekallu",
+                            "Rukhsana Ruby",
+                            "Madhusanka Liyanage"
+                        ],
+                        "abstract": "No abstract available.",
+                        "pub_year": 2021,
+                        "url": "https://doi.org/10.1016/j.jii.2021.100257",
+                        "keywords": [
+                            "Industry 4.0",
+                            "Leverage (statistics)",
+                            "Cloud computing",
+                            "Textile industry",
+                            "Emerging technologies"
+                        ]
+                    },
+                    {
+                        "title": "Sustainable data analysis with Snakemake",
+                        "author": [
+                            "Felix Mölder",
+                            "Kim Philipp Jablonski",
+                            "Brice Letcher",
+                            "Michael B. Hall",
+                            "Christopher H. Tomkins-Tinch",
+                            "Vanessa Sochat",
+                            "Jan Förster",
+                            "Soohyun Lee",
+                            "Sven Twardziok",
+                            "Alexander Kanitz",
+                            "Andreas Wilm",
+                            "Manuel Holtgrewe",
+                            "Sven Rahmann",
+                            "Sven Nahnsen",
+                            "Johannes Köster"
+                        ],
+                        "abstract": "<ns4:p>Data analysis often entails a multitude of heterogeneous steps, from the application of various command line tools to the usage of scripting languages like R or Python for the generation of plots and tables. It is widely recognized that data analyses should ideally be conducted in a reprod...",
+                        "pub_year": 2021,
+                        "url": "https://doi.org/10.12688/f1000research.29032.2",
+                        "keywords": [
+                            "Scripting language",
+                            "Workflow",
+                            "Computer science",
+                            "Raw data",
+                            "Python (programming language)"
+                        ]
+                    },
+                    {
+                        "title": "Introducing the “15-Minute City”: Sustainability, Resilience and Place Identity in Future Post-Pandemic Cities",
+                        "author": [
+                            "Carlos Moreno",
+                            "Zaheer Allam",
+                            "Didier Chabaud",
+                            "Catherine Gall",
+                            "Florent Pratlong"
+                        ],
+                        "abstract": "The socio-economic impacts on cities during the COVID-19 pandemic have been brutal, leading to increasing inequalities and record numbers of unemployment around the world. While cities endure lockdowns in order to ensure decent levels of health, the challenges linked to the unfolding of the pande...",
+                        "pub_year": 2021,
+                        "url": "https://doi.org/10.3390/smartcities4010006",
+                        "keywords": [
+                            "Pandemic",
+                            "Resilience (materials science)",
+                            "Sustainability",
+                            "Coronavirus disease 2019 (COVID-19)",
+                            "Identity (music)"
+                        ]
+                    },
+                    {
+                        "title": "The Road Towards 6G: A Comprehensive Survey",
+                        "author": [
+                            "Wei Jiang",
+                            "Bin Han",
+                            "Mohammad Asif Habibi",
+                            "Hans Dieter Schotten",
+                            "Wei Jiang",
+                            "Bin Han",
+                            "Mohammad Asif Habibi",
+                            "Hans Dieter Schotten"
+                        ],
+                        "abstract": "As of today, the fifth generation (5G) mobile communication system has been\\nrolled out in many countries and the number of 5G subscribers already reaches a\\nvery large scale. It is time for academia and industry to shift their attention\\ntowards the next generation. At this crossroad, an overvie...",
+                        "pub_year": 2021,
+                        "url": "https://doi.org/10.1109/ojcoms.2021.3057679",
+                        "keywords": []
+                    },
+                    {
+                        "title": "6G Internet of Things: A Comprehensive Survey",
+                        "author": [
+                            "Dinh C. Nguyen",
+                            "Ming Ding",
+                            "Pubudu N. Pathirana",
+                            "Aruna Seneviratne",
+                            "Jun Li",
+                            "Dusit Niyato",
+                            "Octavia A. Dobre",
+                            "H. Vincent Poor"
+                        ],
+                        "abstract": "The sixth generation (6G) wireless communication networks are envisioned to&#13;\\nrevolutionize customer services and applications via the Internet of Things&#13;\\n(IoT) towards a future of fully intelligent and autonomous systems. In this&#13;\\narticle, we explore the emerging opportunities brou...",
+                        "pub_year": 2021,
+                        "url": "https://doi.org/10.1109/jiot.2021.3103320",
+                        "keywords": [
+                            "Computer science",
+                            "Internet of Things",
+                            "Wireless",
+                            "Telecommunications",
+                            "Low latency (capital markets)"
+                        ]
+                    }
+                ]
+            },
+            {
+                "year": 2022,
+                "count": 35194,
+                "top_articles": [
+                    {
+                        "title": "A Metaverse: Taxonomy, Components, Applications, and Open Challenges",
+                        "author": [
+                            "Sangmin Park",
+                            "Young‐Gab Kim"
+                        ],
+                        "abstract": "Unlike previous studies on the Metaverse based on Second Life, the current Metaverse is based on the social value of Generation Z that online and offline selves are not different. With the technological development of deep learning-based high-precision recognition models and natural generation mo...",
+                        "pub_year": 2022,
+                        "url": "https://doi.org/10.1109/access.2021.3140175",
+                        "keywords": [
+                            "Computer science",
+                            "Taxonomy (biology)",
+                            "Metaverse",
+                            "Data science",
+                            "World Wide Web"
+                        ]
+                    },
+                    {
+                        "title": "A survey on sentiment analysis methods, applications, and challenges",
+                        "author": [
+                            "Mayur Wankhade",
+                            "Annavarapu Chandra Sekhara Rao",
+                            "Chaitanya Kulkarni"
+                        ],
+                        "abstract": "No abstract available.",
+                        "pub_year": 2022,
+                        "url": "https://doi.org/10.1007/s10462-022-10144-1",
+                        "keywords": [
+                            "Computer science",
+                            "Sentiment analysis",
+                            "Data science",
+                            "Artificial intelligence"
+                        ]
+                    },
+                    {
+                        "title": "End-to-end design of wearable sensors",
+                        "author": [
+                            "H. Ceren Ates",
+                            "Peter Q. Nguyen",
+                            "Laura Gonzalez‐Macia",
+                            "Eden Morales‐Narváez",
+                            "Firat Güder",
+                            "James J. Collins",
+                            "Can Dincer"
+                        ],
+                        "abstract": "No abstract available.",
+                        "pub_year": 2022,
+                        "url": "https://doi.org/10.1038/s41578-022-00460-x",
+                        "keywords": [
+                            "Wearable computer",
+                            "Wearable technology",
+                            "Computer science",
+                            "Smartwatch",
+                            "Human–computer interaction"
+                        ]
+                    },
+                    {
+                        "title": "Multimodal biomedical AI",
+                        "author": [
+                            "Julián Acosta",
+                            "Guido J. Falcone",
+                            "Pranav Rajpurkar",
+                            "Eric J. Topol"
+                        ],
+                        "abstract": "The increasing availability of biomedical data from large biobanks, electronic health records, medical imaging, wearable and ambient biosensors, and the lower cost of genome and microbiome sequencing have set the stage for the development of multimodal artificial intelligence solutions that captu...",
+                        "pub_year": 2022,
+                        "url": "https://doi.org/10.1038/s41591-022-01981-2",
+                        "keywords": [
+                            "Computer science",
+                            "Digital health",
+                            "Biobank",
+                            "Data science",
+                            "Wearable computer"
+                        ]
+                    },
+                    {
+                        "title": "Artificial intelligence and smart vision for building and construction 4.0: Machine and deep learning methods and applications",
+                        "author": [
+                            "Shanaka Kristombu Baduge",
+                            "P.S.M. Thilakarathna",
+                            "Jude Shalitha Perera",
+                            "Mehrdad Arashpour",
+                            "P. Sharafi",
+                            "Bertrand Teodosio",
+                            "Ankit Shringi",
+                            "Priyan Mendis"
+                        ],
+                        "abstract": "This article presents a state-of-the-art review of the applications of Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL) in building and construction industry 4.0 in the facets of architectural design and visualization; material design and optimization; structural design...",
+                        "pub_year": 2022,
+                        "url": "https://doi.org/10.1016/j.autcon.2022.104440",
+                        "keywords": [
+                            "Automation",
+                            "Building automation",
+                            "Systems engineering",
+                            "Engineering",
+                            "Artificial intelligence"
+                        ]
+                    }
+                ]
+            },
+            {
+                "year": 2023,
+                "count": 46310,
+                "top_articles": [
+                    {
+                        "title": "Interpreting Black-Box Models: A Review on Explainable Artificial Intelligence",
+                        "author": [
+                            "Vikas Hassija",
+                            "Vinay Chamola",
+                            "A. Mahapatra",
+                            "Abhinandan Singal",
+                            "Divyansh Goel",
+                            "Kaizhu Huang",
+                            "Simone Scardapane",
+                            "Indro Spinelli",
+                            "Mufti Mahmud",
+                            "Amir Hussain"
+                        ],
+                        "abstract": "Abstract Recent years have seen a tremendous growth in Artificial Intelligence (AI)-based methodological development in a broad range of domains. In this rapidly evolving field, large number of methods are being reported using machine learning (ML) and Deep Learning (DL) models. Majority of these...",
+                        "pub_year": 2023,
+                        "url": "https://doi.org/10.1007/s12559-023-10179-8",
+                        "keywords": [
+                            "Transparency (behavior)",
+                            "Computer science",
+                            "Black box",
+                            "Process (computing)",
+                            "Predictability"
+                        ]
+                    },
+                    {
+                        "title": "Molecular docking as a tool for the discovery of molecular targets of nutraceuticals in diseases management",
+                        "author": [
+                            "Peter Chinedu Agu",
+                            "Celestine Azubuike Afiukwa",
+                            "O.U. Orji",
+                            "Ernest Mbamalu Ezeh",
+                            "Ifeanyi Harrison Ofoke",
+                            "Cyprian O. Ogbu",
+                            "Emmanuel Ike Ugwuja",
+                            "Patrick Maduabuchi Aja"
+                        ],
+                        "abstract": "No abstract available.",
+                        "pub_year": 2023,
+                        "url": "https://doi.org/10.1038/s41598-023-40160-2",
+                        "keywords": [
+                            "Nutraceutical",
+                            "Docking (animal)",
+                            "Computational biology",
+                            "Disease",
+                            "Drug development"
+                        ]
+                    },
+                    {
+                        "title": "Unmanned aerial vehicles (UAVs): practical aspects, applications, open challenges, security issues, and future trends",
+                        "author": [
+                            "Syed Agha Hassnain Mohsan",
+                            "Nawaf Qasem Hamood Othman",
+                            "Yanlong Li",
+                            "Mohammed H. Alsharif",
+                            "Muhammad Asghar Khan"
+                        ],
+                        "abstract": "No abstract available.",
+                        "pub_year": 2023,
+                        "url": "https://doi.org/10.1007/s11370-022-00452-4",
+                        "keywords": [
+                            "Drone",
+                            "Computer science",
+                            "Payload (computing)",
+                            "Operability",
+                            "Risk analysis (engineering)"
+                        ]
+                    },
+                    {
+                        "title": "Blockchain for the metaverse: A Review",
+                        "author": [
+                            "Thien Huynh‐The",
+                            "Thippa Reddy Gadekallu",
+                            "Weizheng Wang",
+                            "Gokul Yenduri",
+                            "Pasika Ranaweera",
+                            "Quoc‐Viet Pham",
+                            "Daniel Benevides da Costa",
+                            "Madhusanka Liyanage"
+                        ],
+                        "abstract": "Since Facebook officially changed its name to Meta in Oct. 2021, the metaverse has become a new norm of social networks and three-dimensional (3D) virtual worlds. The metaverse aims to bring 3D immersive and personalized experiences to users by leveraging many pertinent technologies. Despite grea...",
+                        "pub_year": 2023,
+                        "url": "https://doi.org/10.1016/j.future.2023.02.008",
+                        "keywords": [
+                            "Computer science",
+                            "Metaverse",
+                            "Possible world",
+                            "Data science",
+                            "Human–computer interaction"
+                        ]
+                    },
+                    {
+                        "title": "Understanding O-RAN: Architecture, Interfaces, Algorithms, Security, and Research Challenges",
+                        "author": [
+                            "Michele Polese",
+                            "Leonardo Bonati",
+                            "Salvatore D’Oro",
+                            "Stefano Basagni",
+                            "Tommaso Melodia"
+                        ],
+                        "abstract": "The Open Radio Access Network (RAN) and its embodiment through the O-RAN Alliance specifications are poised to revolutionize the telecom ecosystem. O-RAN promotes virtualized RANs where disaggregated components are connected via open interfaces and optimized by intelligent controllers. The result...",
+                        "pub_year": 2023,
+                        "url": "https://doi.org/10.1109/comst.2023.3239220",
+                        "keywords": [
+                            "Ran",
+                            "Computer science",
+                            "Workflow",
+                            "Interoperability",
+                            "Standardization"
+                        ]
+                    }
+                ]
+            },
+            {
+                "year": 2024,
+                "count": 33827,
+                "top_articles": [
+                    {
+                        "title": "Collaborative Networks: Integrating Blockchain for Enhanced Trust and Transparency",
+                        "author": [
+                            "Ajit Kumar",
+                            "Om Prakash Roy"
+                        ],
+                        "abstract": "Blockchain technology has become a disruptive force in many different industries because it provides unparalleled security, transparency, and efficiency. In the context of cooperative networks, Blockchain's decentralized architecture provides a solid basis for enhancing trust, streamlining proces...",
+                        "pub_year": 2024,
+                        "url": "https://doi.org/10.38124/ijisrt/ijisrt24jul180",
+                        "keywords": [
+                            "Blockchain",
+                            "Transparency (behavior)",
+                            "Computer science",
+                            "Context (archaeology)",
+                            "Immutability"
+                        ]
+                    },
+                    {
+                        "title": "Implementing Blockchain Technology for Optimized Supply Chain and Enhanced Sustainability",
+                        "author": [
+                            "Halida Achmad Bagraff",
+                            "Nur Kholis",
+                            "Mugiyati",
+                            "Fatikhah Ghofi Nabila"
+                        ],
+                        "abstract": "Supply chain efficiency, transparency, and sustainability can be enhanced using blockchain technology. Blockchain enables a company to accurately track raw material origin to finished products, which ensures standard quality and sustainability. Furthermore, blockchain improves partnerships betwee...",
+                        "pub_year": 2024,
+                        "url": "https://doi.org/10.38124/ijisrt/ijisrt24aug1218",
+                        "keywords": [
+                            "Blockchain",
+                            "Sustainability",
+                            "Supply chain",
+                            "Business",
+                            "Environmental economics"
+                        ]
+                    },
+                    {
+                        "title": "GPT (Generative Pre-Trained Transformer)— A Comprehensive Review on Enabling Technologies, Potential Applications, Emerging Challenges, and Future Directions",
+                        "author": [
+                            "Gokul Yenduri",
+                            "M. Ramalingam",
+                            "G. Chemmalar Selvi",
+                            "Y. Supriya",
+                            "Gautam Srivastava",
+                            "Praveen Kumar Reddy Maddikunta",
+                            "G. Deepti Raj",
+                            "Rutvij H. Jhaveri",
+                            "B. Prabadevi",
+                            "Weizheng Wang",
+                            "Athanasios V. Vasilakos",
+                            "Thippa Reddy Gadekallu"
+                        ],
+                        "abstract": "The Generative Pre-trained Transformer (GPT) represents a notable breakthrough in the domain of natural language processing, which is propelling us toward the development of machines that can understand and communicate using language in a manner that closely resembles that of humans. GPT is based...",
+                        "pub_year": 2024,
+                        "url": "https://doi.org/10.1109/access.2024.3389497",
+                        "keywords": [
+                            "Computer science",
+                            "Transformer",
+                            "Architecture",
+                            "Natural language understanding",
+                            "Emerging technologies"
+                        ]
+                    },
+                    {
+                        "title": "Digital twins for health: a scoping review",
+                        "author": [
+                            "Evangelia Katsoulakis",
+                            "Qi Wang",
+                            "Huanmei Wu",
+                            "Leili Shahriyari",
+                            "R. Fletcher",
+                            "Jinwei Liu",
+                            "Luke E.K. Achenie",
+                            "Hongfang Liu",
+                            "Pamela Jackson",
+                            "Ying Xiao",
+                            "Tanveer Syeda-Mahmood",
+                            "Richard Tuli",
+                            "Jun Deng"
+                        ],
+                        "abstract": "No abstract available.",
+                        "pub_year": 2024,
+                        "url": "https://doi.org/10.1038/s41746-024-01073-0",
+                        "keywords": [
+                            "Health care",
+                            "Government (linguistics)",
+                            "Big data",
+                            "Realm",
+                            "Business"
+                        ]
+                    },
+                    {
+                        "title": "Balancing Privacy and Progress: A Review of Privacy Challenges, Systemic Oversight, and Patient Perceptions in AI-Driven Healthcare",
+                        "author": [
+                            "S. Williamson",
+                            "Victor R. Prybutok"
+                        ],
+                        "abstract": "Integrating Artificial Intelligence (AI) in healthcare represents a transformative shift with substantial potential for enhancing patient care. This paper critically examines this integration, confronting significant ethical, legal, and technological challenges, particularly in patient privacy, d...",
+                        "pub_year": 2024,
+                        "url": "https://doi.org/10.3390/app14020675",
+                        "keywords": [
+                            "Health care",
+                            "Autonomy",
+                            "Confidentiality",
+                            "Transformative learning",
+                            "Information privacy"
+                        ]
+                    }
+                ]
+            },
+            {
+                "year": 2025,
+                "count": 30144,
+                "top_articles": [
+                    {
+                        "title": "Formal Semantics for Kolmogorov-Arnold Network Representations of Operational Games",
+                        "author": [
+                            "Keyulu Xu",
+                            "Weihua Hu",
+                            "Jure Leskovec",
+                            "Stefanie Jegelka"
+                        ],
+                        "abstract": "This paper develops a formal semantic framework for Kolmogorov-Arnold Network (KAN) representations of operational games. Operational games, as generalizations of strategic and dynamic games, provide powerful tools for modeling complex multi-agent interactions, but their analysis using traditiona...",
+                        "pub_year": 2025,
+                        "url": "https://doi.org/10.5281/zenodo.15206559",
+                        "keywords": [
+                            "Graph isomorphism",
+                            "Computer science",
+                            "Theoretical computer science",
+                            "Graph",
+                            "Discriminative model"
+                        ]
+                    },
+                    {
+                        "title": "Leveraging artificial intelligence and advanced food processing techniques for enhanced food safety, quality, and security: a comprehensive review",
+                        "author": [
+                            "Sambandh Bhusan Dhal",
+                            "Debashish Kar"
+                        ],
+                        "abstract": "Abstract Artificial intelligence is emerging as a transformative force in addressing the multifaceted challenges of food safety, food quality, and food security. This review synthesizes advancements in AI-driven technologies, such as machine learning, deep learning, natural language processing, a...",
+                        "pub_year": 2025,
+                        "url": "https://doi.org/10.1007/s42452-025-06472-w",
+                        "keywords": [
+                            "Food safety",
+                            "Quality (philosophy)",
+                            "Computer science",
+                            "Food security",
+                            "Food quality"
+                        ]
+                    },
+                    {
+                        "title": "The Role of Zero Trust Architecture in Modern Cybersecurity: Integration with IAM and Emerging Technologies",
+                        "author": [
+                            "Wilson Leite Rebouças Filho"
+                        ],
+                        "abstract": "As cyber threats continue to evolve, organizations are increasingly adopting advanced security frameworks such as Zero Trust Architecture (ZTA) to protect their digital assets. ZTA operates under the principle of \"never trust, always verify,\" acknowledging that both internal and external networks...",
+                        "pub_year": 2025,
+                        "url": "https://doi.org/10.34117/bjdv11n1-060",
+                        "keywords": [
+                            "Computer security",
+                            "Zero (linguistics)",
+                            "Zero tolerance",
+                            "Architecture",
+                            "Computer science"
+                        ]
+                    },
+                    {
+                        "title": "Technological innovations in agriculture: the application of Blockchain and Artificial Intelligence for grain traceability and protection",
+                        "author": [
+                            "Rafael Elias Venturini"
+                        ],
+                        "abstract": "In recent years, the convergence between blockchain and artificial intelligence (AI) has led to significant innovations in the agricultural sector, particularly in the traceability and protection of grains. These emerging technologies have the potential to transform the agricultural supply chain,...",
+                        "pub_year": 2025,
+                        "url": "https://doi.org/10.34117/bjdv11n3-007",
+                        "keywords": [
+                            "Blockchain",
+                            "Traceability",
+                            "Agriculture",
+                            "Business",
+                            "Computer science"
+                        ]
+                    },
+                    {
+                        "title": "Integrating Artificial Intelligence Agents with the Internet of Things for Enhanced Environmental Monitoring: Applications in Water Quality and Climate Data",
+                        "author": [
+                            "Tymoteusz Miller",
+                            "Irmina Durlik",
+                            "Ewelina Kostecka",
+                            "Polina Kozlovska",
+                            "Adrianna Łobodzińska",
+                            "S. Sokołowska",
+                            "Agnieszka Nowy"
+                        ],
+                        "abstract": "The integration of artificial intelligence (AI) agents with the Internet of Things (IoT) has marked a transformative shift in environmental monitoring and management, enabling advanced data gathering, in-depth analysis, and more effective decision making. This comprehensive literature review expl...",
+                        "pub_year": 2025,
+                        "url": "https://doi.org/10.3390/electronics14040696",
+                        "keywords": [
+                            "Water quality",
+                            "Internet of Things",
+                            "Computer science",
+                            "Environmental monitoring",
+                            "The Internet"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Tokenization": {
+        "yearly_stats": [
+            {
+                "year": 2020,
+                "count": 27295,
+                "top_articles": [
+                    {
+                        "title": "Longformer: The Long-Document Transformer",
+                        "author": [
+                            "Iz Beltagy",
+                            "Matthew E. Peters",
+                            "Arman Cohan"
+                        ],
+                        "abstract": "Transformer-based models are unable to process long sequences due to their self-attention operation, which scales quadratically with the sequence length. To address this limitation, we introduce the Longformer with an attention mechanism that scales linearly with sequence length, making it easy t...",
+                        "pub_year": 2020,
+                        "url": "https://doi.org/10.48550/arxiv.2004.05150",
+                        "keywords": [
+                            "Automatic summarization",
+                            "Transformer",
+                            "Computer science",
+                            "Generative grammar",
+                            "Encoder"
+                        ]
+                    },
+                    {
+                        "title": "CodeBERT: A Pre-Trained Model for Programming and Natural Languages",
+                        "author": [
+                            "Zhangyin Feng",
+                            "Daya Guo",
+                            "Duyu Tang",
+                            "Nan Duan",
+                            "Xiaocheng Feng",
+                            "Ming Gong",
+                            "Linjun Shou",
+                            "Bing Qin",
+                            "Ting Liu",
+                            "Daxin Jiang",
+                            "Ming Zhou"
+                        ],
+                        "abstract": "Zhangyin Feng, Daya Guo, Duyu Tang, Nan Duan, Xiaocheng Feng, Ming Gong, Linjun Shou, Bing Qin, Ting Liu, Daxin Jiang, Ming Zhou. Findings of the Association for Computational Linguistics: EMNLP 2020. 2020.",
+                        "pub_year": 2020,
+                        "url": "https://doi.org/10.18653/v1/2020.findings-emnlp.139",
+                        "keywords": [
+                            "Computer science",
+                            "Programming language",
+                            "Computational linguistics",
+                            "Natural language processing",
+                            "Natural language"
+                        ]
+                    },
+                    {
+                        "title": "Online and Remote Learning in Higher Education Institutes: A Necessity in light of COVID-19 Pandemic",
+                        "author": [
+                            "Wahab Ali"
+                        ],
+                        "abstract": "In light of the rising concerns about the spread of COVID-19 and calls to contain the Corona Virus, a growing number of tertiary institutions have shut down in regards to face-to-face classes globally. The Corona virus has revealed emerging vulnerabilities in education systems around the world. I...",
+                        "pub_year": 2020,
+                        "url": "https://doi.org/10.5539/hes.v10n3p16",
+                        "keywords": [
+                            "Pandemic",
+                            "Coronavirus disease 2019 (COVID-19)",
+                            "Higher education",
+                            "Social distance",
+                            "Distance education"
+                        ]
+                    },
+                    {
+                        "title": "TinyBERT: Distilling BERT for Natural Language Understanding",
+                        "author": [
+                            "Xiaoqi Jiao",
+                            "Yichun Yin",
+                            "Lifeng Shang",
+                            "Xin Jiang",
+                            "Xiao Dong Chen",
+                            "Linlin Li",
+                            "Fang Wang",
+                            "Qun Liu"
+                        ],
+                        "abstract": "Language model pre-training, such as BERT, has significantly improved the performances of many natural language processing tasks. However, pre-trained language models are usually computationally expensive, so it is difficult to efficiently execute them on resource-restricted devices. To accelerat...",
+                        "pub_year": 2020,
+                        "url": "https://doi.org/10.18653/v1/2020.findings-emnlp.372",
+                        "keywords": [
+                            "Computer science",
+                            "Transformer",
+                            "Distillation",
+                            "Inference",
+                            "Benchmark (surveying)"
+                        ]
+                    },
+                    {
+                        "title": "Proceedings of the 28th International Conference on Computational Linguistics",
+                        "author": [],
+                        "abstract": "Only eighteen months ago, I joined Leo, Horacio, Mónica, and Nuria on a tour of the delights that the Barcelona venue would be offering us in September 2020.Together with Chengqing, we made great plans for a fantastic intellectual and social gathering with our colleagues from far and wide, Catala...",
+                        "pub_year": 2020,
+                        "url": "https://doi.org/10.18653/v1/2020.coling-main",
+                        "keywords": [
+                            "Computer science",
+                            "Computational linguistics",
+                            "Linguistics",
+                            "Natural language processing",
+                            "Philosophy"
+                        ]
+                    }
+                ]
+            },
+            {
+                "year": 2021,
+                "count": 32803,
+                "top_articles": [
+                    {
+                        "title": "Cancer Statistics, 2021",
+                        "author": [
+                            "Rebecca L. Siegel",
+                            "Kimberly D. Miller",
+                            "Hannah E. Fuchs",
+                            "Ahmedin Jemal"
+                        ],
+                        "abstract": "Abstract Each year, the American Cancer Society estimates the numbers of new cancer cases and deaths in the United States and compiles the most recent data on population‐based cancer occurrence. Incidence data (through 2017) were collected by the Surveillance, Epidemiology, and End Results Progra...",
+                        "pub_year": 2021,
+                        "url": "https://doi.org/10.3322/caac.21654",
+                        "keywords": [
+                            "Cancer",
+                            "Statistics",
+                            "Medicine",
+                            "Mathematics",
+                            "Internal medicine"
+                        ]
+                    },
+                    {
+                        "title": "Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting",
+                        "author": [
+                            "Haoyi Zhou",
+                            "Shanghang Zhang",
+                            "Jieqi Peng",
+                            "Shuai Zhang",
+                            "Jianxin Li",
+                            "Hui Xiong",
+                            "Wancai Zhang"
+                        ],
+                        "abstract": "Many real-world applications require the prediction of long sequence time-series, such as electricity consumption planning. Long sequence time-series forecasting (LSTF) demands a high prediction capacity of the model, which is the ability to capture precise long-range dependency coupling between ...",
+                        "pub_year": 2021,
+                        "url": "https://doi.org/10.1609/aaai.v35i12.17325",
+                        "keywords": [
+                            "Transformer",
+                            "Computer science",
+                            "Encoder",
+                            "Sequence (biology)",
+                            "Dependency (UML)"
+                        ]
+                    },
+                    {
+                        "title": "TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation",
+                        "author": [
+                            "Jieneng Chen",
+                            "Yongyi Lu",
+                            "Qihang Yu",
+                            "Xiangde Luo",
+                            "Ehsan Adeli",
+                            "Yan Wang",
+                            "Le Lü",
+                            "Alan Yuille",
+                            "Yuyin Zhou"
+                        ],
+                        "abstract": "Medical image segmentation is an essential prerequisite for developing healthcare systems, especially for disease diagnosis and treatment planning. On various medical image segmentation tasks, the u-shaped architecture, also known as U-Net, has become the de-facto standard and achieved tremendous...",
+                        "pub_year": 2021,
+                        "url": "https://doi.org/10.48550/arxiv.2102.04306",
+                        "keywords": [
+                            "Computer science",
+                            "Segmentation",
+                            "Artificial intelligence",
+                            "Image segmentation",
+                            "Encoder"
+                        ]
+                    },
+                    {
+                        "title": "SimCSE: Simple Contrastive Learning of Sentence Embeddings",
+                        "author": [
+                            "Tianyu Gao",
+                            "Xingcheng Yao",
+                            "Danqi Chen"
+                        ],
+                        "abstract": "This paper presents SimCSE, a simple contrastive learning framework that greatly advances the state-of-the-art sentence embeddings. We first describe an unsupervised approach, which takes an input sentence and predicts itself in a contrastive objective, with only standard dropout used as noise. T...",
+                        "pub_year": 2021,
+                        "url": "https://doi.org/10.18653/v1/2021.emnlp-main.552",
+                        "keywords": [
+                            "Artificial intelligence",
+                            "Computer science",
+                            "Natural language processing",
+                            "Sentence",
+                            "Simple (philosophy)"
+                        ]
+                    },
+                    {
+                        "title": "ADMETlab 2.0: an integrated online platform for accurate and comprehensive predictions of ADMET properties",
+                        "author": [
+                            "Guo‐Li Xiong",
+                            "Zhenhua Wu",
+                            "Jiacai Yi",
+                            "Li Fu",
+                            "Zhijiang Yang",
+                            "Chang‐Yu Hsieh",
+                            "Mingzhu Yin",
+                            "Xiangxiang Zeng",
+                            "Chengkun Wu",
+                            "Aiping Lü",
+                            "Xiang Chen",
+                            "Tingjun Hou",
+                            "Dongsheng Cao"
+                        ],
+                        "abstract": "Abstract Because undesirable pharmacokinetics and toxicity of candidate compounds are the main reasons for the failure of drug development, it has been widely recognized that absorption, distribution, metabolism, excretion and toxicity (ADMET) should be evaluated as early as possible. In silico A...",
+                        "pub_year": 2021,
+                        "url": "https://doi.org/10.1093/nar/gkab255",
+                        "keywords": [
+                            "ADME",
+                            "In silico",
+                            "Toxicity",
+                            "Computer science",
+                            "Computational biology"
+                        ]
+                    }
+                ]
+            },
+            {
+                "year": 2022,
+                "count": 37876,
+                "top_articles": [
+                    {
+                        "title": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+                        "author": [
+                            "Jason Lee",
+                            "Xuezhi Wang",
+                            "Dale Schuurmans",
+                            "Maarten Bosma",
+                            "Ed H.",
+                            "Quoc V. Le",
+                            "Denny Zhou"
+                        ],
+                        "abstract": "We explore how generating a chain of thought -- a series of intermediate reasoning steps -- significantly improves the ability of large language models to perform complex reasoning. In particular, we show how such reasoning abilities emerge naturally in sufficiently large language models via a si...",
+                        "pub_year": 2022,
+                        "url": "https://doi.org/10.48550/arxiv.2201.11903",
+                        "keywords": [
+                            "Computer science",
+                            "Language model",
+                            "Benchmark (surveying)",
+                            "Chain (unit)",
+                            "Cognitive science"
+                        ]
+                    },
+                    {
+                        "title": "Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing",
+                        "author": [
+                            "Pengfei Liu",
+                            "Weizhe Yuan",
+                            "Jinlan Fu",
+                            "Zhengbao Jiang",
+                            "Hiroaki Hayashi",
+                            "Graham Neubig"
+                        ],
+                        "abstract": "This article surveys and organizes research works in a new paradigm in natural language processing, which we dub “prompt-based learning.” Unlike traditional supervised learning, which trains a model to take in an input x and predict an output y as P ( y|x ), prompt-based learning is based on lang...",
+                        "pub_year": 2022,
+                        "url": "https://doi.org/10.1145/3560815",
+                        "keywords": [
+                            "Computer science",
+                            "Variety (cybernetics)",
+                            "Set (abstract data type)",
+                            "Notation",
+                            "Cover (algebra)"
+                        ]
+                    },
+                    {
+                        "title": "SignalP 6.0 predicts all five types of signal peptides using protein language models",
+                        "author": [
+                            "Felix Teufel",
+                            "Jose Juan Almagro Armenteros",
+                            "Alexander Rosenberg Johansen",
+                            "Magnús Halldór Gíslason",
+                            "Silas Irby Pihl",
+                            "Konstantinos D Tsirigos",
+                            "Ole Winther",
+                            "Søren Brunak",
+                            "GUNNAR VON HEIJNE",
+                            "Henrik Nielsen",
+                            "Felix Teufel",
+                            "Jose Juan Almagro Armenteros",
+                            "Alexander Rosenberg Johansen",
+                            "Magnús Halldór Gíslason",
+                            "Silas Irby Pihl",
+                            "Konstantinos D Tsirigos",
+                            "Ole Winther",
+                            "Søren Brunak",
+                            "GUNNAR VON HEIJNE",
+                            "Henrik Nielsen"
+                        ],
+                        "abstract": "No abstract available.",
+                        "pub_year": 2022,
+                        "url": "https://doi.org/10.1038/s41587-021-01156-3",
+                        "keywords": []
+                    },
+                    {
+                        "title": "Attention mechanisms in computer vision: A survey",
+                        "author": [
+                            "Meng-Hao Guo",
+                            "Tian-Xing Xu",
+                            "Jiangjiang Liu",
+                            "Zheng-Ning Liu",
+                            "Peng-Tao Jiang",
+                            "Tai‐Jiang Mu",
+                            "Song–Hai Zhang",
+                            "Ralph R. Martin",
+                            "Ming–Ming Cheng",
+                            "Shi‐Min Hu"
+                        ],
+                        "abstract": "Humans can naturally and effectively find salient regions in complex scenes.\\nMotivated by this observation, attention mechanisms were introduced into\\ncomputer vision with the aim of imitating this aspect of the human visual\\nsystem. Such an attention mechanism can be regarded as a dynamic weigh...",
+                        "pub_year": 2022,
+                        "url": "https://doi.org/10.1007/s41095-022-0271-y",
+                        "keywords": [
+                            "Computer science",
+                            "Categorization",
+                            "Artificial intelligence",
+                            "Computer graphics",
+                            "Process (computing)"
+                        ]
+                    },
+                    {
+                        "title": "PVT v2: Improved baselines with pyramid vision transformer",
+                        "author": [
+                            "Wenhai Wang",
+                            "Enze Xie",
+                            "Xiang Li",
+                            "Deng-Ping Fan",
+                            "Kaitao Song",
+                            "Ding Liang",
+                            "Tong Lü",
+                            "Ping Luo",
+                            "Ling Shao"
+                        ],
+                        "abstract": "Transformer recently has presented encouraging progress in computer vision.\\nIn this work, we present new baselines by improving the original Pyramid Vision\\nTransformer (PVT v1) by adding three designs, including (1) linear complexity\\nattention layer, (2) overlapping patch embedding, and (3) co...",
+                        "pub_year": 2022,
+                        "url": "https://doi.org/10.1007/s41095-022-0274-8",
+                        "keywords": [
+                            "Transformer",
+                            "Computer science",
+                            "Segmentation",
+                            "Embedding",
+                            "Artificial intelligence"
+                        ]
+                    }
+                ]
+            },
+            {
+                "year": 2023,
+                "count": 49316,
+                "top_articles": [
+                    {
+                        "title": "LLaMA: Open and Efficient Foundation Language Models",
+                        "author": [
+                            "Hugo Touvron",
+                            "Thibaut Lavril",
+                            "Gautier Izacard",
+                            "Xavier Martinet",
+                            "Marie-Anne Lachaux",
+                            "Timothée Lacroix",
+                            "Baptiste Rozière",
+                            "Naman Goyal",
+                            "Eric Hambro",
+                            "Faisal Azhar",
+                            "Aurelien Rodriguez",
+                            "Armand Joulin",
+                            "Édouard Grave",
+                            "Guillaume Lample"
+                        ],
+                        "abstract": "We introduce LLaMA, a collection of foundation language models ranging from 7B to 65B parameters. We train our models on trillions of tokens, and show that it is possible to train state-of-the-art models using publicly available datasets exclusively, without resorting to proprietary and inaccessi...",
+                        "pub_year": 2023,
+                        "url": "https://doi.org/10.48550/arxiv.2302.13971",
+                        "keywords": [
+                            "Foundation (evidence)",
+                            "Computer science",
+                            "Ranging",
+                            "Language model",
+                            "State (computer science)"
+                        ]
+                    },
+                    {
+                        "title": "Performance of ChatGPT on USMLE: Potential for AI-assisted medical education using large language models",
+                        "author": [
+                            "Tiffany H. Kung",
+                            "Morgan Cheatham",
+                            "Arielle Medenilla",
+                            "Czarina Sillos",
+                            "Lorie De Leon",
+                            "Camille Elepaño",
+                            "Maria Madriaga",
+                            "Rimel Aggabao",
+                            "Giezel Diaz-Candido",
+                            "James Maningo",
+                            "Victor Tseng"
+                        ],
+                        "abstract": "We evaluated the performance of a large language model called ChatGPT on the United States Medical Licensing Exam (USMLE), which consists of three exams: Step 1, Step 2CK, and Step 3. ChatGPT performed at or near the passing threshold for all three exams without any specialized training or reinfo...",
+                        "pub_year": 2023,
+                        "url": "https://doi.org/10.1371/journal.pdig.0000198",
+                        "keywords": [
+                            "Concordance",
+                            "United States Medical Licensing Examination",
+                            "Medical education",
+                            "Computer science",
+                            "Licensure"
+                        ]
+                    },
+                    {
+                        "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+                        "author": [
+                            "Yogesh K. Dwivedi",
+                            "Nir Kshetri",
+                            "Laurie Hughes",
+                            "Emma Slade",
+                            "Anand Jeyaraj",
+                            "Arpan Kumar Kar",
+                            "Abdullah M. Baabdullah",
+                            "Alex Koohang",
+                            "Vishnupriya Raghavan",
+                            "Manju Ahuja",
+                            "Hanaa Albanna",
+                            "Mousa Ahmad Albashrawi",
+                            "Adil S. Al-Busaidi",
+                            "Janarthanan Balakrishnan",
+                            "Yves Barlette",
+                            "Sriparna Basu",
+                            "Indranil Bose",
+                            "Laurence Brooks",
+                            "Dimitrios Buhalis",
+                            "Lemuria Carter",
+                            "Soumyadeb Chowdhury",
+                            "Tom Crick",
+                            "Scott W. Cunningham",
+                            "Gareth H. Davies",
+                            "Robert M. Davison",
+                            "Rahul Dé",
+                            "Denis Dennehy",
+                            "Yanqing Duan",
+                            "Rameshwar Dubey",
+                            "Rohita Dwivedi",
+                            "John S. Edwards",
+                            "Carlos Flavián",
+                            "Robin Gauld",
+                            "Varun Grover",
+                            "Mei‐Chih Hu",
+                            "Marijn Janssen",
+                            "Paul Jones",
+                            "Iris Junglas",
+                            "Sangeeta Khorana",
+                            "Sascha Kraus",
+                            "Kai R. Larsen",
+                            "Paul Latreille",
+                            "Sven Laumer",
+                            "Tegwen Malik",
+                            "Abbas Mardani",
+                            "Marcello Mariani",
+                            "Sunil Mithas",
+                            "Emmanuel Mogaji",
+                            "Jeretta Horn Nord",
+                            "Siobhán O’Connor",
+                            "Fevzi Okumus",
+                            "Margherita Pagani",
+                            "Neeraj Pandey",
+                            "Savvas Papagiannidis",
+                            "Ilias O. Pappas",
+                            "Nishith Pathak",
+                            "Jan Pries‐Heje",
+                            "Ramakrishnan Raman",
+                            "Nripendra P. Rana",
+                            "Sven‐Volker Rehm",
+                            "Samuel Ribeiro‐Navarrete",
+                            "Alexander Richter",
+                            "Frantz Rowe",
+                            "Suprateek Sarker",
+                            "Bernd Carsten Stahl",
+                            "Manoj Tiwari",
+                            "Wil van der Aalst",
+                            "Viswanath Venkatesh",
+                            "Giampaolo Viglia",
+                            "Michael Wade",
+                            "Paul Walton",
+                            "Jochen Wirtz",
+                            "Ryan Wright"
+                        ],
+                        "abstract": "No abstract available.",
+                        "pub_year": 2023,
+                        "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+                        "keywords": [
+                            "Transformative learning",
+                            "Generative grammar",
+                            "Knowledge management",
+                            "Hospitality",
+                            "Engineering ethics"
+                        ]
+                    },
+                    {
+                        "title": "Swin-Unet: Unet-Like Pure Transformer for Medical Image Segmentation",
+                        "author": [
+                            "Hu Cao",
+                            "Yueyue Wang",
+                            "Joy Chen",
+                            "Dongsheng Jiang",
+                            "Xiaopeng Zhang",
+                            "Qi Tian",
+                            "Manning Wang"
+                        ],
+                        "abstract": "No abstract available.",
+                        "pub_year": 2023,
+                        "url": "https://doi.org/10.1007/978-3-031-25066-8_9",
+                        "keywords": [
+                            "Computer science",
+                            "Encoder",
+                            "Transformer",
+                            "Convolutional neural network",
+                            "Artificial intelligence"
+                        ]
+                    },
+                    {
+                        "title": "Large language models encode clinical knowledge",
+                        "author": [
+                            "Karan Singhal",
+                            "Shekoofeh Azizi",
+                            "Tao Tu",
+                            "S. Sara Mahdavi",
+                            "Jason Lee",
+                            "Hyung Won Chung",
+                            "Nathan Scales",
+                            "Ajay Kumar Tanwani",
+                            "Heather Cole-Lewis",
+                            "Stephen Pfohl",
+                            "Perry W. Payne",
+                            "Martin Seneviratne",
+                            "Paul Gamble",
+                            "Christopher Kelly",
+                            "Abubakr Babiker",
+                            "Nathanael Schärli",
+                            "Aakanksha Chowdhery",
+                            "P. Mansfield",
+                            "Dina Demner‐Fushman",
+                            "Blaise Agüera y Arcas",
+                            "Dale R. Webster",
+                            "Greg S. Corrado",
+                            "Yossi Matias",
+                            "Katherine Chou",
+                            "Juraj Gottweis",
+                            "Nenad Tomašev",
+                            "Yun Liu",
+                            "Alvin Rajkomar",
+                            "Joëlle Barral",
+                            "Christopher Semturs",
+                            "Alan Karthikesalingam",
+                            "Vivek Natarajan"
+                        ],
+                        "abstract": "No abstract available.",
+                        "pub_year": 2023,
+                        "url": "https://doi.org/10.1038/s41586-023-06291-2",
+                        "keywords": [
+                            "Computer science",
+                            "Benchmark (surveying)",
+                            "Language model",
+                            "Comprehension",
+                            "Artificial intelligence"
+                        ]
+                    }
+                ]
+            },
+            {
+                "year": 2024,
+                "count": 27636,
+                "top_articles": [
+                    {
+                        "title": "SpectralGPT: Spectral Remote Sensing Foundation Model",
+                        "author": [
+                            "Danfeng Hong",
+                            "Bing Zhang",
+                            "Xuyang Li",
+                            "Yuxuan Li",
+                            "Chenyu Li",
+                            "Jing Yao",
+                            "Naoto Yokoya",
+                            "Hao Li",
+                            "Pedram Ghamisi",
+                            "Xiuping Jia",
+                            "Antonio Plaza",
+                            "Paolo Gamba",
+                            "Jón Atli Benediktsson",
+                            "Jocelyn Chanussot"
+                        ],
+                        "abstract": "The foundation model has recently garnered significant attention due to its potential to revolutionize the field of visual representation learning in a self-supervised manner. While most foundation models are tailored to effectively process RGB images for various visual tasks, there is a noticeab...",
+                        "pub_year": 2024,
+                        "url": "https://doi.org/10.1109/tpami.2024.3362475",
+                        "keywords": [
+                            "Computer science",
+                            "Artificial intelligence",
+                            "RGB color model",
+                            "Segmentation",
+                            "Field (mathematics)"
+                        ]
+                    },
+                    {
+                        "title": "Lost in the Middle: How Language Models Use Long Contexts",
+                        "author": [
+                            "Nelson F. Liu",
+                            "Kevin Lin",
+                            "John Hewitt",
+                            "Ashwin Paranjape",
+                            "Michele Bevilacqua",
+                            "Fabio Petroni",
+                            "Percy Liang"
+                        ],
+                        "abstract": "Abstract While recent language models have the ability to take long contexts as input, relatively little is known about how well they use longer context. We analyze the performance of language models on two tasks that require identifying relevant information in their input contexts: multi-documen...",
+                        "pub_year": 2024,
+                        "url": "https://doi.org/10.1162/tacl_a_00638",
+                        "keywords": [
+                            "Computer science",
+                            "Language model",
+                            "Natural language processing",
+                            "Artificial intelligence",
+                            "Linguistics"
+                        ]
+                    },
+                    {
+                        "title": "TransUNet: Rethinking the U-Net architecture design for medical image segmentation through the lens of transformers",
+                        "author": [
+                            "Jieneng Chen",
+                            "Jieru Mei",
+                            "Xianhang Li",
+                            "Yongyi Lu",
+                            "Qihang Yu",
+                            "Qingyue Wei",
+                            "Xiangde Luo",
+                            "Yutong Xie",
+                            "Ehsan Adeli",
+                            "Yan Wang",
+                            "Matthew P. Lungren",
+                            "Shaoting Zhang",
+                            "Lei Xing",
+                            "Le Lü",
+                            "Alan Yuille",
+                            "Yuyin Zhou"
+                        ],
+                        "abstract": "Medical image segmentation is crucial for healthcare, yet convolution-based methods like U-Net face limitations in modeling long-range dependencies. To address this, Transformers designed for sequence-to-sequence predictions have been integrated into medical image segmentation. However, a compreh...",
+                        "pub_year": 2024,
+                        "url": "https://doi.org/10.1016/j.media.2024.103280",
+                        "keywords": [
+                            "Computer science",
+                            "Segmentation",
+                            "Artificial intelligence",
+                            "Encoder",
+                            "Transformer"
+                        ]
+                    },
+                    {
+                        "title": "A Review on Large Language Models: Architectures, Applications, Taxonomies, Open Issues and Challenges",
+                        "author": [
+                            "Mohaimenul Azam Khan Raiaan",
+                            "Md. Saddam Hossain Mukta",
+                            "Kaniz Fatema",
+                            "Nur Mohammad Fahad",
+                            "Sadman Sakib",
+                            "Most. Marufatul Jannat Mim",
+                            "Jubaer Ahmad",
+                            "Mohammed Eunus Ali",
+                            "Sami Azam"
+                        ],
+                        "abstract": "Large Language Models (LLMs) recently demonstrated extraordinary capability in various natural language processing (NLP) tasks including language translation, text generation, question answering, etc. Moreover, LLMs are new and essential part of computerized language processing, having the abilit...",
+                        "pub_year": 2024,
+                        "url": "https://doi.org/10.1109/access.2024.3365742",
+                        "keywords": [
+                            "Computer science",
+                            "Open research",
+                            "Data science",
+                            "Natural language processing",
+                            "World Wide Web"
+                        ]
+                    },
+                    {
+                        "title": "GPT (Generative Pre-Trained Transformer)— A Comprehensive Review on Enabling Technologies, Potential Applications, Emerging Challenges, and Future Directions",
+                        "author": [
+                            "Gokul Yenduri",
+                            "M. Ramalingam",
+                            "G. Chemmalar Selvi",
+                            "Y. Supriya",
+                            "Gautam Srivastava",
+                            "Praveen Kumar Reddy Maddikunta",
+                            "G. Deepti Raj",
+                            "Rutvij H. Jhaveri",
+                            "B. Prabadevi",
+                            "Weizheng Wang",
+                            "Athanasios V. Vasilakos",
+                            "Thippa Reddy Gadekallu"
+                        ],
+                        "abstract": "The Generative Pre-trained Transformer (GPT) represents a notable breakthrough in the domain of natural language processing, which is propelling us toward the development of machines that can understand and communicate using language in a manner that closely resembles that of humans. GPT is based...",
+                        "pub_year": 2024,
+                        "url": "https://doi.org/10.1109/access.2024.3389497",
+                        "keywords": [
+                            "Computer science",
+                            "Transformer",
+                            "Architecture",
+                            "Natural language understanding",
+                            "Emerging technologies"
+                        ]
+                    }
+                ]
+            },
+            {
+                "year": 2025,
+                "count": 22108,
+                "top_articles": [
+                    {
+                        "title": "rdkit/rdkit: 2025_03_5 (Q1 2025) Release",
+                        "author": [
+                            "Greg Landrum",
+                            "Brian Kelley",
+                            "Paolo Tosco",
+                            "sriniker",
+                            "NadineSchneider",
+                            "Riccardo Vianello",
+                            "Adalke",
+                            "AlexanderSavelyev",
+                            "Samo Turk",
+                            "Strets",
+                            "JLVarjo",
+                            "Axel Pahl",
+                            "DoliathGavid",
+                            "Patrick Fuller",
+                            "Gedeck",
+                            "Maciej Wójcikowski",
+                            "Matt Swain",
+                            "Michał Nowotka",
+                            "Gianluca Sforna",
+                            "Jan Holst Jensen",
+                            "baoilleach",
+                            "David Hall",
+                            "Wolf-Guido Bolick",
+                            "nhfechner",
+                            "Jan Domański",
+                            "DavidACosgrove",
+                            "J. Bach Hardie",
+                            "Kozo Nishida"
+                        ],
+                        "abstract": "Release_2025.03.5 (Changes relative to Release_2025.03.4) Acknowledgements (Note: I'm no longer attempting to manually curate names. If you would like to see your contribution acknowledged with your name, please set your name in GitHub) Brian Cole, David Cosgrove, Maria Dolotova, Hussein Faara, T...",
+                        "pub_year": 2025,
+                        "url": "https://doi.org/10.5281/zenodo.16439048",
+                        "keywords": [
+                            "Chemistry"
+                        ]
+                    },
+                    {
+                        "title": "Toward expert-level medical question answering with large language models",
+                        "author": [
+                            "K. K. Singhal",
+                            "Tao Tu",
+                            "Juraj Gottweis",
+                            "Rory Sayres",
+                            "Ellery Wulczyn",
+                            "Mohamed Amin",
+                            "Le Hou",
+                            "Kevin Clark",
+                            "Stephen Pfohl",
+                            "Heather Cole-Lewis",
+                            "Darlene Neal",
+                            "Qazi Mamunur Rashid",
+                            "Mike Schaekermann",
+                            "Amy Wang",
+                            "Dev Dash",
+                            "Jonathan H. Chen",
+                            "Nigam H. Shah",
+                            "Sami Lachgar",
+                            "P. Mansfield",
+                            "Sushant Prakash",
+                            "Bradley Green",
+                            "Ewa Dominowska",
+                            "Blaise Agüera y Arcas",
+                            "Nenad Tomašev",
+                            "Yun Liu",
+                            "Renee Wong",
+                            "Christopher Semturs",
+                            "S. Sara Mahdavi",
+                            "Joëlle Barral",
+                            "Dale R. Webster",
+                            "Greg S. Corrado",
+                            "Yossi Matias",
+                            "Shekoofeh Azizi",
+                            "Alan Karthikesalingam",
+                            "Vivek Natarajan"
+                        ],
+                        "abstract": "Large language models (LLMs) have shown promise in medical question answering, with Med-PaLM being the first to exceed a 'passing' score in United States Medical Licensing Examination style questions. However, challenges remain in long-form medical question answering and handling real-world workf...",
+                        "pub_year": 2025,
+                        "url": "https://doi.org/10.1038/s41591-024-03423-7",
+                        "keywords": [
+                            "Question answering",
+                            "Computer science",
+                            "Natural language processing",
+                            "Medicine",
+                            "Psychology"
+                        ]
+                    },
+                    {
+                        "title": "U-KAN Makes Strong Backbone for Medical Image Segmentation and Generation",
+                        "author": [
+                            "Chenxin Li",
+                            "Xinyu Liu",
+                            "Wuyang Li",
+                            "Cheng Wang",
+                            "Hengyu Liu",
+                            "Yifan Liu",
+                            "Zhen Chen",
+                            "Yixuan Yuan"
+                        ],
+                        "abstract": "U-Net has become a cornerstone in various visual applications such as image segmentation and diffusion probability models. While numerous innovative designs and improvements have been introduced by incorporating transformers or MLPs, the networks are still limited to linearly modeling patterns as...",
+                        "pub_year": 2025,
+                        "url": "https://doi.org/10.1609/aaai.v39i5.32491",
+                        "keywords": [
+                            "Artificial intelligence",
+                            "Computer science",
+                            "Computer vision",
+                            "Image segmentation",
+                            "Image (mathematics)"
+                        ]
+                    },
+                    {
+                        "title": "Genome modeling and design across all domains of life with Evo 2",
+                        "author": [
+                            "Garyk Brixi",
+                            "Matthew G. Durrant",
+                            "Ja‐Lok Ku",
+                            "Michael Poli",
+                            "Greg Brockman",
+                            "Daniel Chang",
+                            "Gabriel González",
+                            "S. B. King",
+                            "David Li",
+                            "S. B. King",
+                            "Mohsen Naghipourfar",
+                            "Eric Nguyen",
+                            "Chiara Ricci-Tam",
+                            "David W. Romero",
+                            "Gwanggyu Sun",
+                            "Ali Taghibakshi",
+                            "A. A. Vorontsov",
+                            "B. S. Yang",
+                            "Mengjiao Deng",
+                            "Liv Gorton",
+                            "Nam C. Nguyen",
+                            "Nicholas K. Wang",
+                            "Emily R. Adams",
+                            "Stephen A. Baccus",
+                            "Steven Dillmann",
+                            "Stefano Ermon",
+                            "Deyin Guo",
+                            "Rajesh Ilango",
+                            "Ken Janik",
+                            "Amy X. Lu",
+                            "Rajendra G. Mehta",
+                            "Mohammad R. K. Mofrad",
+                            "Madelena Y. Ng",
+                            "Jaspreet Pannu",
+                            "Christopher Ré",
+                            "Jonathan C. Schmok",
+                            "John St. John",
+                            "Jeremy A. Sullivan",
+                            "Kevin Zhu",
+                            "Greg Zynda",
+                            "Daniel Balsam",
+                            "Patrick Collison",
+                            "Anthony Costa",
+                            "Tina Hernandez‐Boussard",
+                            "Eric Ho",
+                            "Mingyu Liu",
+                            "Thomas McGrath",
+                            "Kimberly Powell",
+                            "Donald S. Burke",
+                            "Hani Goodarzi",
+                            "Patrick D. Hsu",
+                            "Brian Hie"
+                        ],
+                        "abstract": "Abstract All of life encodes information with DNA. While tools for sequencing, synthesis, and editing of genomic code have transformed biological research, intelligently composing new biological systems would also require a deep understanding of the immense complexity encoded by genomes. We intro...",
+                        "pub_year": 2025,
+                        "url": "https://doi.org/10.1101/2025.02.18.638918",
+                        "keywords": [
+                            "Evolutionary biology",
+                            "Computational biology",
+                            "Biology"
+                        ]
+                    },
+                    {
+                        "title": "Toward a Ludic Architecture: The Space of Play and Games",
+                        "author": [
+                            "Steffen P. Walz"
+                        ],
+                        "abstract": "Toward a Ludic Architecture is a pioneering publication, architecturally framing play and games as human practices in and of space. Filling the gap in literature, Steffen P. Walz considers game design theory and practice alongside architectural theory and practice, asking: how are play and games ...",
+                        "pub_year": 2025,
+                        "url": "https://doi.org/10.17613/wfekk-jc893",
+                        "keywords": [
+                            "Architecture",
+                            "Space (punctuation)",
+                            "Computer science",
+                            "Human–computer interaction",
+                            "Multimedia"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Smart contract": {
+        "yearly_stats": [
+            {
+                "year": 2020,
+                "count": 18303,
+                "top_articles": [
+                    {
+                        "title": "Effects of COVID-19 on College Students’ Mental Health in the United States: Interview Survey Study",
+                        "author": [
+                            "Changwon Son",
+                            "Sudeep Hegde",
+                            "Alec Smith",
+                            "Xiaomei Wang",
+                            "Farzan Sasangohar"
+                        ],
+                        "abstract": "Background Student mental health in higher education has been an increasing concern. The COVID-19 pandemic situation has brought this vulnerable population into renewed focus. Objective Our study aims to conduct a timely assessment of the effects of the COVID-19 pandemic on the mental health of c...",
+                        "pub_year": 2020,
+                        "url": "https://doi.org/10.2196/21279",
+                        "keywords": [
+                            "Mental health",
+                            "Worry",
+                            "Anxiety",
+                            "Pandemic",
+                            "Stressor"
+                        ]
+                    },
+                    {
+                        "title": "PHD1 controls muscle mTORC1 in a hydroxylation-independent manner by stabilizing leucyl tRNA synthetase",
+                        "author": [
+                            "Gommaar D’Hulst",
+                            "Inés Soro-Arnáiz",
+                            "Evi Masschelein",
+                            "Koen Veys",
+                            "Gillian Fitzgerald",
+                            "Benoit Smeuninx",
+                            "Sung‐Hoon Kim",
+                            "Louise Deldicque",
+                            "Bert Blaauw",
+                            "Peter Carmeliet",
+                            "Leigh Breen",
+                            "Peppi Koivunen",
+                            "Shimin Zhao",
+                            "Katrien De Bock"
+                        ],
+                        "abstract": "No abstract available.",
+                        "pub_year": 2020,
+                        "url": "https://doi.org/10.1038/s41467-019-13889-6",
+                        "keywords": [
+                            "Leucine",
+                            "Hydroxylation",
+                            "mTORC1",
+                            "Biochemistry",
+                            "Amino acid"
+                        ]
+                    },
+                    {
+                        "title": "COVID-19: 20 countries’ higher education intra-period digital pedagogy responses",
+                        "author": [
+                            "Joseph Crawford",
+                            "Kerryn Butler‐Henderson",
+                            "Jürgen Rudolph",
+                            "Bashar H. Malkawi",
+                            "Matt Glowatz",
+                            "Robert L. Burton",
+                            "P.A. Magni",
+                            "Sophia Lam"
+                        ],
+                        "abstract": "The Coronavirus 2019 (COVID-19) pandemic has created significant challenges for the global higher education community. Through a desktop analysis leveraging university and government sources where possible, we provide a timely map of the intra-period higher education responses to COVID-19 across ...",
+                        "pub_year": 2020,
+                        "url": "https://doi.org/10.37074/jalt.2020.3.1.7",
+                        "keywords": [
+                            "Coronavirus disease 2019 (COVID-19)",
+                            "Typology",
+                            "Pandemic",
+                            "Higher education",
+                            "Government (linguistics)"
+                        ]
+                    },
+                    {
+                        "title": "Towards 6G wireless communication networks: vision, enabling technologies, and new paradigm shifts",
+                        "author": [
+                            "Xiaohu You",
+                            "Cheng‐Xiang Wang",
+                            "Jie Huang",
+                            "Xiqi Gao",
+                            "Zaichen Zhang",
+                            "Mao Wang",
+                            "Yongming Huang",
+                            "Chuan Zhang",
+                            "Yanxiang Jiang",
+                            "Jiaheng Wang",
+                            "Min Zhu",
+                            "Bin Sheng",
+                            "Dongming Wang",
+                            "Zhiwen Pan",
+                            "Pengcheng Zhu",
+                            "Yang Yang",
+                            "Zening Liu",
+                            "Ping Zhang",
+                            "Xiaofeng Tao",
+                            "Shaoqian Li",
+                            "Zhi Chen",
+                            "Xinying Ma",
+                            "I Chih‐Lin",
+                            "Shuangfeng Han",
+                            "Ke Li",
+                            "Chengkang Pan",
+                            "Zhimin Zheng",
+                            "Lajos Hanzo",
+                            "Xuemin Shen",
+                            "Y. Jay Guo",
+                            "Zhiguo Ding",
+                            "Harald Haas",
+                            "Wen Tong",
+                            "Peiying Zhu",
+                            "Ganghua Yang",
+                            "Jun Wang",
+                            "Erik G. Larsson",
+                            "Hien Quoc Ngo",
+                            "Wei Hong",
+                            "Haiming Wang",
+                            "Debin Hou",
+                            "Jixin Chen",
+                            "Zhe Chen",
+                            "Zhang‐Cheng Hao",
+                            "Geoffrey Ye Li",
+                            "Rahim Tafazolli",
+                            "Yue Gao",
+                            "H. Vincent Poor",
+                            "Gerhard Fettweis",
+                            "Ying‐Chang Liang"
+                        ],
+                        "abstract": "No abstract available.",
+                        "pub_year": 2020,
+                        "url": "https://doi.org/10.1007/s11432-020-2955-6",
+                        "keywords": [
+                            "Computer science",
+                            "Network architecture",
+                            "Wireless network",
+                            "Wireless",
+                            "Computer network"
+                        ]
+                    },
+                    {
+                        "title": "Digital Twin: Values, Challenges and Enablers From a Modeling Perspective",
+                        "author": [
+                            "Adil Rasheed",
+                            "Omer San",
+                            "Trond Kvamsdal"
+                        ],
+                        "abstract": "Digital twin can be defined as a virtual representation of a physical asset enabled through data and simulators for real-time prediction, optimization, monitoring, controlling, and improved decision making. Recent advances in computational pipelines, multiphysics solvers, artificial intelligence,...",
+                        "pub_year": 2020,
+                        "url": "https://doi.org/10.1109/access.2020.2970143",
+                        "keywords": [
+                            "Computer science",
+                            "Data science",
+                            "Big data",
+                            "Perspective (graphical)",
+                            "Data sharing"
+                        ]
+                    }
+                ]
+            },
+            {
+                "year": 2021,
+                "count": 21374,
+                "top_articles": [
+                    {
+                        "title": "Global, regional, and national burden of stroke and its risk factors, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019",
+                        "author": [
+                            "Valery L. Feigin",
+                            "Benjamin Stark",
+                            "Catherine O. Johnson",
+                            "Gregory A. Roth",
+                            "Catherine Bisignano",
+                            "Gdiom Gebreheat",
+                            "Mitra Abbasifard",
+                            "Mohsen Abbasi‐Kangevari",
+                            "Foad Abd-Allah",
+                            "Vida Abedi",
+                            "Ahmed Abualhasan",
+                            "Niveen ME Abu-Rmeileh",
+                            "Abdelrahman Ibrahim Abushouk",
+                            "Oladimeji Adebayo",
+                            "Gina Agarwal",
+                            "Pradyumna Agasthi",
+                            "Bright Opoku Ahinkorah",
+                            "Sohail Ahmad",
+                            "Sepideh Ahmadi",
+                            "Yusra Ahmed Salih",
+                            "Budi Aji",
+                            "Samaneh Akbarpour",
+                            "Rufus Akinyemi",
+                            "Hanadi Al Hamad",
+                            "Fares Alahdab",
+                            "Sheikh Mohammad Alif",
+                            "Vahid Alipour",
+                            "Syed Mohamed Aljunid",
+                            "Sami Almustanyir",
+                            "Rajaa Al‐Raddadi",
+                            "Rustam Al‐Shahi Salman",
+                            "Nelson Alvis‐Guzmán",
+                            "Robert Ancuceanu",
+                            "Deanna Anderlini",
+                            "Jason A Anderson",
+                            "Adnan Ansar",
+                            "Ippazio Cosimo Antonazzo",
+                            "Jalal Arabloo",
+                            "Johan Ärnlöv",
+                            "Kurnia Dwi Artanti",
+                            "Zahra Aryan",
+                            "Samaneh Asgari",
+                            "Tahira Ashraf",
+                            "Mohammad Athar",
+                            "Alok Atreya",
+                            "Marcel Ausloos",
+                            "Atif Amin Baig",
+                            "Ovidiu Constantin Baltatu",
+                            "Maciej Banach",
+                            "Miguel A. Barboza",
+                            "Suzanne Barker‐Collo",
+                            "Till Bärnighausen",
+                            "Mark Thomaz Ugliara Barone",
+                            "Sanjay Basu",
+                            "Gholamreza Bazmandegan",
+                            "Ettore Beghi",
+                            "Mahya Beheshti",
+                            "Yannick Béjot",
+                            "Arielle Wilder Bell",
+                            "Derrick Bennett",
+                            "Isabela M. Benseñor",
+                            "Woldesellassie Bezabhe",
+                            "Yihienew Mequanint Bezabih",
+                            "Akshaya Srikanth Bhagavathula",
+                            "Pankaj Bhardwaj",
+                            "Krittika Bhattacharyya",
+                            "Ali Bijani",
+                            "Boris Bikbov",
+                            "Mulugeta Molla Birhanu",
+                            "Archith Boloor",
+                            "Aimé Bonny",
+                            "Michael Bräuer",
+                            "Hermann Brenner",
+                            "Dana Bryazka",
+                            "Zahid A Butt",
+                            "Florentino Luciano Caetano dos Santos",
+                            "Ismael Campos‐Nonato",
+                            "Carlos Cantú‐Brito",
+                            "Juan Jesús Carrero",
+                            "Carlos A Castañeda-Orjuela",
+                            "Alberico L. Catapano",
+                            "Promit Ananyo Chakraborty",
+                            "Jaykaran Charan",
+                            "Sonali G Choudhari",
+                            "E. Chowdhury",
+                            "Dinh‐Toi Chu",
+                            "Sheng‐Chia Chung",
+                            "David Colozza",
+                            "Vera Marisa Costa",
+                            "Simona Costanzo",
+                            "Michael H Criqui",
+                            "Omid Dadras",
+                            "Baye Dagnew",
+                            "Xiaochen Dai",
+                            "Koustuv Dalal",
+                            "Albertino Antonio Moura Damasceno",
+                            "Emanuele D’Amico",
+                            "Lalit Dandona",
+                            "Rakhi Dandona",
+                            "Jiregna Darega Gela"
+                        ],
+                        "abstract": "No abstract available.",
+                        "pub_year": 2021,
+                        "url": "https://doi.org/10.1016/s1474-4422(21)00252-0",
+                        "keywords": [
+                            "Burden of disease",
+                            "Stroke (engine)",
+                            "Medicine",
+                            "Disease",
+                            "Disease burden"
+                        ]
+                    },
+                    {
+                        "title": "Natural products in drug discovery: advances and opportunities",
+                        "author": [
+                            "Atanas G. Atanasov",
+                            "Sergey B. Zotchev",
+                            "Verena M. Dirsch",
+                            "İlkay Erdoğan Orhan",
+                            "Maciej Banach",
+                            "Judith M. Rollinger",
+                            "Davide Barreca",
+                            "Wolfram Weckwerth",
+                            "Rudolf Bauer",
+                            "Edward A. Bayer",
+                            "Shaheen Majeed",
+                            "Anupam Bishayee",
+                            "Valery N. Bochkov",
+                            "Günther K. Bonn",
+                            "Nady Braidy",
+                            "Franz Bučar",
+                            "Alejandro Cifuentes",
+                            "Grazia D’Onofrio",
+                            "Michael J. Bodkin",
+                            "Marc Diederich",
+                            "Albena T. Dinkova‐Kostova",
+                            "Thomas Efferth",
+                            "Khalid El Bairi",
+                            "Nicolas Arkells",
+                            "Tai-Ping Fan",
+                            "Bernd L. Fiebich",
+                            "Michael Freissmuth",
+                            "Milen I. Georgiev",
+                            "Simon Gibbons",
+                            "Keith M. Godfrey",
+                            "Christian W. Gruber",
+                            "Jag Heer",
+                            "Lukas A. Huber",
+                            "Elena Ibáñez",
+                            "Anake Kijjoa",
+                            "Anna K. Kiss",
+                            "Aiping Lü",
+                            "Francisco A. Macı́as",
+                            "Mark J.S. Miller",
+                            "Andrei Mocan",
+                            "Rolf Müller",
+                            "Ferdinando Nicoletti",
+                            "George Perry",
+                            "Valeria Pittalà",
+                            "Luca Rastrelli",
+                            "Michael Ristow",
+                            "Gian Luigi Russo",
+                            "A. Sanches‐Silva",
+                            "Daniela Schuster",
+                            "Helen Sheridan",
+                            "Krystyna Skalicka‐Woźniak",
+                            "Léandros Skaltsounis",
+                            "Eduardo Sobarzo‐Sánchez",
+                            "David S. Bredt",
+                            "Hermann Stuppner",
+                            "Antoni Sureda",
+                            "Nikolay Tzvetkov",
+                            "Rosa Anna Vacca",
+                            "Bharat B. Aggarwal",
+                            "Maurizio Battino",
+                            "Francesca Giampieri",
+                            "Michaël Wink",
+                            "Jean-Luc Wolfender",
+                            "Jianbo Xiao",
+                            "Andy Wai Kan Yeung",
+                            "Gérard Lizard",
+                            "Michael Popp",
+                            "Michael Heinrich",
+                            "Ioana Ilie",
+                            "Marc Stadler",
+                            "Maria Daglia",
+                            "Robert Verpoorte",
+                            "Claudiu T. Supuran"
+                        ],
+                        "abstract": "No abstract available.",
+                        "pub_year": 2021,
+                        "url": "https://doi.org/10.1038/s41573-020-00114-z",
+                        "keywords": [
+                            "Drug discovery",
+                            "Isolation (microbiology)",
+                            "Risk analysis (engineering)",
+                            "Pharmaceutical industry",
+                            "Natural (archaeology)"
+                        ]
+                    },
+                    {
+                        "title": "Deep Learning: A Comprehensive Overview on Techniques, Taxonomy, Applications and Research Directions",
+                        "author": [
+                            "Iqbal H. Sarker"
+                        ],
+                        "abstract": "No abstract available.",
+                        "pub_year": 2021,
+                        "url": "https://doi.org/10.1007/s42979-021-00815-1",
+                        "keywords": [
+                            "Artificial intelligence",
+                            "Deep learning",
+                            "Computer science",
+                            "Big data",
+                            "Taxonomy (biology)"
+                        ]
+                    },
+                    {
+                        "title": "U-Net and Its Variants for Medical Image Segmentation: A Review of Theory and Applications",
+                        "author": [
+                            "Nahian Siddique",
+                            "Sidike Paheding",
+                            "Colin Elkin",
+                            "Vijay Devabhaktuni"
+                        ],
+                        "abstract": "U-net is an image segmentation technique developed primarily for medical\\nimage analysis that can precisely segment images using a scarce amount of\\ntraining data. These traits provide U-net with a very high utility within the\\nmedical imaging community and have resulted in extensive adoption of ...",
+                        "pub_year": 2021,
+                        "url": "https://doi.org/10.1109/access.2021.3086020",
+                        "keywords": [
+                            "Computer science",
+                            "Image segmentation",
+                            "Segmentation",
+                            "Net (polyhedron)",
+                            "Modalities"
+                        ]
+                    },
+                    {
+                        "title": "Introducing the “15-Minute City”: Sustainability, Resilience and Place Identity in Future Post-Pandemic Cities",
+                        "author": [
+                            "Carlos Moreno",
+                            "Zaheer Allam",
+                            "Didier Chabaud",
+                            "Catherine Gall",
+                            "Florent Pratlong"
+                        ],
+                        "abstract": "The socio-economic impacts on cities during the COVID-19 pandemic have been brutal, leading to increasing inequalities and record numbers of unemployment around the world. While cities endure lockdowns in order to ensure decent levels of health, the challenges linked to the unfolding of the pande...",
+                        "pub_year": 2021,
+                        "url": "https://doi.org/10.3390/smartcities4010006",
+                        "keywords": [
+                            "Pandemic",
+                            "Resilience (materials science)",
+                            "Sustainability",
+                            "Coronavirus disease 2019 (COVID-19)",
+                            "Identity (music)"
+                        ]
+                    }
+                ]
+            },
+            {
+                "year": 2022,
+                "count": 23596,
+                "top_articles": [
+                    {
+                        "title": "A review of the global climate change impacts, adaptation, and sustainable mitigation measures",
+                        "author": [
+                            "Kashif Abbass",
+                            "Muhammad Qasim",
+                            "Huaming Song",
+                            "Muntasir Murshed",
+                            "Haider Mahmood",
+                            "Ijaz Younis"
+                        ],
+                        "abstract": "No abstract available.",
+                        "pub_year": 2022,
+                        "url": "https://doi.org/10.1007/s11356-022-19718-6",
+                        "keywords": [
+                            "Ecotoxicology",
+                            "Climate change",
+                            "Adaptation (eye)",
+                            "Environmental science",
+                            "Environmental planning"
+                        ]
+                    },
+                    {
+                        "title": "A Metaverse: Taxonomy, Components, Applications, and Open Challenges",
+                        "author": [
+                            "Sangmin Park",
+                            "Young‐Gab Kim"
+                        ],
+                        "abstract": "Unlike previous studies on the Metaverse based on Second Life, the current Metaverse is based on the social value of Generation Z that online and offline selves are not different. With the technological development of deep learning-based high-precision recognition models and natural generation mo...",
+                        "pub_year": 2022,
+                        "url": "https://doi.org/10.1109/access.2021.3140175",
+                        "keywords": [
+                            "Computer science",
+                            "Taxonomy (biology)",
+                            "Metaverse",
+                            "Data science",
+                            "World Wide Web"
+                        ]
+                    },
+                    {
+                        "title": "World guidelines for falls prevention and management for older adults: a global initiative",
+                        "author": [
+                            "Manuel Montero‐Odasso",
+                            "Nathalie van der Velde",
+                            "Finbarr C. Martin",
+                            "Mirko Petrović",
+                            "Maw Pin Tan",
+                            "Jesper Ryg",
+                            "Sara G. Aguilar-Navarro",
+                            "Neil B. Alexander",
+                            "Clemens Becker",
+                            "Hubert Blain",
+                            "Robbie Bourke",
+                            "Ian D. Cameron",
+                            "Richard Camicioli",
+                            "Lindy Clemson",
+                            "Jacqueline Close",
+                            "Kim Delbaere",
+                            "Leilei Duan",
+                            "Gustavo Duque",
+                            "Suzanne M Dyer",
+                            "Ellen Freiberger",
+                            "David A. Ganz",
+                            "Fernando Gómez",
+                            "Jeffrey M. Hausdorff",
+                            "David B. Hogan",
+                            "Susan M. Hunter",
+                            "José Ricardo Jáuregui",
+                            "Nellie Kamkar",
+                            "Rose Anne Kenny",
+                            "Sarah E Lamb",
+                            "Nancy K. Latham",
+                            "Lewis A. Lipsitz",
+                            "Teresa Liu‐Ambrose",
+                            "Pip Logan",
+                            "Stephen R. Lord",
+                            "Louise Mallet",
+                            "David Marsh",
+                            "Koen Milisen",
+                            "Rogelio Moctezuma‐Gallegos",
+                            "Meg E. Morris",
+                            "Alice Nieuwboer",
+                            "Mônica Rodrigues Perracini",
+                            "Frederico Pieruccini‐Faria",
+                            "Alison Pighills",
+                            "Catherine M. Said",
+                            "Ervin Sejdić",
+                            "Catherine Sherrington",
+                            "Dawn A. Skelton",
+                            "Sabestina Dsouza",
+                            "Mark Speechley",
+                            "Susan Stark",
+                            "Chris Todd",
+                            "Bruce R. Troen",
+                            "Tischa van der Cammen",
+                            "Joe Verghese",
+                            "Ellen Vlaeyen",
+                            "Jennifer Watt",
+                            "Tahir Masud",
+                            "Devinder Kaur Ajit Singh",
+                            "Sara G. Aguilar-Navarro",
+                            "Edgar Aguilera Caona",
+                            "Neil B. Alexander",
+                            "Natalie E. Allen",
+                            "Cedric Anweiller",
+                            "Alberto Avila-Funes",
+                            "Renato Barbosa dos Santos",
+                            "Frances Batchelor",
+                            "Clemens Becker",
+                            "Marla Beauchamp",
+                            "Canan Birimoglu",
+                            "Hubert Blain",
+                            "Kayla Bohlke",
+                            "Robert Bourke",
+                            "Christina Alonzo Bouzòn",
+                            "Stephanie A. Bridenbaugh",
+                            "Patricio Gabriel Buendia",
+                            "Ian D. Cameron",
+                            "Richard Camicioli",
+                            "Colleen G. Canning",
+                            "Carlos Cano",
+                            "Juan Carlos Carbajal",
+                            "Daniela Cristina Carvalho de Abreu",
+                            "Álvaro Casas‐Herrero",
+                            "Alejandro Ceriani",
+                            "Matteo Cesari",
+                            "Lorenzo Chiari",
+                            "Lindy Clemson",
+                            "Jacqueline Close",
+                            "Luis Manuel Cornejo Alemán",
+                            "Rik Dawson",
+                            "Kim Delbaere",
+                            "Paul Doody",
+                            "Sabestina Dsouza",
+                            "Leilei Duan",
+                            "Gustavo Duque",
+                            "Suzanne M Dyer",
+                            "Toby J. Ellmers",
+                            "Nicola Fairhall",
+                            "Luigi Ferrucci",
+                            "Ellen Freiberger",
+                            "James Frith"
+                        ],
+                        "abstract": "Abstract Background falls and fall-related injuries are common in older adults, have negative effects on functional independence and quality of life and are associated with increased morbidity, mortality and health related costs. Current guidelines are inconsistent, with no up-to-date, globally a...",
+                        "pub_year": 2022,
+                        "url": "https://doi.org/10.1093/ageing/afac205",
+                        "keywords": [
+                            "Medicine",
+                            "Fall prevention",
+                            "Falls in older adults",
+                            "Gerontology",
+                            "Injury prevention"
+                        ]
+                    },
+                    {
+                        "title": "Tackling the emerging threat of antifungal resistance to human health",
+                        "author": [
+                            "Matthew C. Fisher",
+                            "Ana Alastruey‐Izquierdo",
+                            "Judith Berman",
+                            "Tihana Bicanic",
+                            "Elaine Bignell",
+                            "Paul Bowyer",
+                            "Michael J. Bromley",
+                            "Roger J. M. Brüggemann",
+                            "Gary Garber",
+                            "Oliver A. Cornely",
+                            "Sarah J. Gurr",
+                            "Thomas S. Harrison",
+                            "Ed J. Kuijper",
+                            "Johanna Rhodes",
+                            "Donald C. Sheppard",
+                            "Adilia Warris",
+                            "P. Lewis White",
+                            "Jianping Xu",
+                            "Bas J. Zwaan",
+                            "Paul E. Verweij"
+                        ],
+                        "abstract": "No abstract available.",
+                        "pub_year": 2022,
+                        "url": "https://doi.org/10.1038/s41579-022-00720-1",
+                        "keywords": [
+                            "Biology",
+                            "Antifungal",
+                            "Resistance (ecology)",
+                            "Antibiotic resistance",
+                            "Transmission (telecommunications)"
+                        ]
+                    },
+                    {
+                        "title": "Global maize production, consumption and trade: trends and R&amp;D implications",
+                        "author": [
+                            "Olaf Erenstein",
+                            "Moti Jaleta",
+                            "Kai Sonder",
+                            "Khondoker Abdul Mottaleb",
+                            "B. M. Prasanna"
+                        ],
+                        "abstract": "Abstract Since its domestication some 9,000 years ago, maize ( Zea mays L.; corn) has played an increasing and diverse role in global agri-food systems. Global maize production has surged in the past few decades, propelled by rising demand and a combination of technological advances, yield increa...",
+                        "pub_year": 2022,
+                        "url": "https://doi.org/10.1007/s12571-022-01288-7",
+                        "keywords": [
+                            "Food security",
+                            "Livelihood",
+                            "Sustainability",
+                            "Agricultural economics",
+                            "Food systems"
+                        ]
+                    }
+                ]
+            },
+            {
+                "year": 2023,
+                "count": 28391,
+                "top_articles": [
+                    {
+                        "title": "Global, regional, and national burden of diabetes from 1990 to 2021, with projections of prevalence to 2050: a systematic analysis for the Global Burden of Disease Study 2021",
+                        "author": [
+                            "Kanyin Liane Ong",
+                            "Lauryn K Stafford",
+                            "Susan A. McLaughlin",
+                            "Edward J. Boyko",
+                            "Dan J. Stein",
+                            "Amanda Smith",
+                            "Bronte Dalton",
+                            "J Duprey",
+                            "Jessica A Cruz",
+                            "Hailey Hagins",
+                            "Paulina A Lindstedt",
+                            "Amirali Aali",
+                            "Yohannes Habtegiorgis Abate",
+                            "Melsew Dagne Abate",
+                            "Mohammadreza Abbasian",
+                            "Zeinab Abbasi-Kangevari",
+                            "Mohsen Abbasi‐Kangevari",
+                            "Samar Abd ElHafeez",
+                            "Rami Abd‐Rabu",
+                            "Deldar Morad Abdulah",
+                            "Abu Yousuf Md Abdullah",
+                            "Vida Abedi",
+                            "Hassan Abidi",
+                            "Richard Gyan Aboagye",
+                            "Hassan Abolhassani",
+                            "Eman Abu‐Gharbieh",
+                            "Ahmed Abu‐Zaid",
+                            "Tigist Demssew Adane",
+                            "Denberu Eshetie",
+                            "Isaac Yeboah Addo",
+                            "Oyelola A. Adegboye",
+                            "Victor Adekanmbi",
+                            "Victor Abiola Adepoju",
+                            "Qorinah Estiningtyas Sakilah Adnani",
+                            "Rotimi Felix Afolabi",
+                            "Gina Agarwal",
+                            "Zahra Babaei Aghdam",
+                            "Marcela Agudelo‐Botero",
+                            "Constanza Elizabeth Aguilera Arriagada",
+                            "Williams Agyemang‐Duah",
+                            "Bright Opoku Ahinkorah",
+                            "Danish Ahmad",
+                            "Rizwan Ahmad",
+                            "Sajjad Ahmad",
+                            "Aqeel Ahmad",
+                            "Ali Ahmadi",
+                            "Keivan Ahmadi",
+                            "Ayman Ahmed",
+                            "Ali Ahmed",
+                            "Luai A. Ahmed",
+                            "Syed Anees Ahmed",
+                            "Marjan Ajami",
+                            "Rufus Akinyemi",
+                            "Hanadi Al Hamad",
+                            "Syed Mahfuz Al Hasan",
+                            "Tareq Mohammed Ali AL-Ahdal",
+                            "Tariq A. Alalwan",
+                            "Ziyad Al‐Aly",
+                            "Mohammad T AlBataineh",
+                            "Jacqueline Elizabeth Alcalde‐Rabanal",
+                            "Sharifullah Alemi",
+                            "Hassam Ali",
+                            "Tahereh Alinia",
+                            "Syed Mohamed Aljunid",
+                            "Sami Almustanyir",
+                            "Rajaa Al‐Raddadi",
+                            "Nelson Alvis‐Guzmán",
+                            "Firehiwot Amare",
+                            "Edward Kwabena Ameyaw",
+                            "Sohrab Amiri",
+                            "Ganiyu Adeniyi Amusa",
+                            "Cătălina Liliana Andrei",
+                            "Ranjit Mohan Anjana",
+                            "Adnan Ansar",
+                            "Golnoosh Ansari",
+                            "Alireza Ansari-Moghaddam",
+                            "Anayochukwu Edward Anyasodor",
+                            "Jalal Arabloo",
+                            "Aleksandr Y. Aravkin",
+                            "Demelash Areda",
+                            "Hidayat Arifin",
+                            "Mesay Arkew",
+                            "Benedetta Armocida",
+                            "Johan Ärnlöv",
+                            "Anton A Artamonov",
+                            "Judie Arulappan",
+                            "Raphael Taiwo Aruleba",
+                            "Ashokan Arumugam",
+                            "Zahra Aryan",
+                            "Mulu Tiruneh",
+                            "Mohammad Asghari Jafarabadi",
+                            "Elaheh Askari",
+                            "Daniel Asmelash",
+                            "Thomas Astell‐Burt",
+                            "Mohammad Athar",
+                            "Seyyed Shamsadin Athari",
+                            "Maha Atout",
+                            "Leticia Ávila‐Burgos",
+                            "Ahmed Awaisu",
+                            "Sina Azadnajafabad"
+                        ],
+                        "abstract": "Bill & Melinda Gates Foundation.",
+                        "pub_year": 2023,
+                        "url": "https://doi.org/10.1016/s0140-6736(23)01301-6",
+                        "keywords": [
+                            "Burden of disease",
+                            "Medicine",
+                            "Diabetes mellitus",
+                            "Disease",
+                            "Disease burden"
+                        ]
+                    },
+                    {
+                        "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+                        "author": [
+                            "Yogesh K. Dwivedi",
+                            "Nir Kshetri",
+                            "Laurie Hughes",
+                            "Emma Slade",
+                            "Anand Jeyaraj",
+                            "Arpan Kumar Kar",
+                            "Abdullah M. Baabdullah",
+                            "Alex Koohang",
+                            "Vishnupriya Raghavan",
+                            "Manju Ahuja",
+                            "Hanaa Albanna",
+                            "Mousa Ahmad Albashrawi",
+                            "Adil S. Al-Busaidi",
+                            "Janarthanan Balakrishnan",
+                            "Yves Barlette",
+                            "Sriparna Basu",
+                            "Indranil Bose",
+                            "Laurence Brooks",
+                            "Dimitrios Buhalis",
+                            "Lemuria Carter",
+                            "Soumyadeb Chowdhury",
+                            "Tom Crick",
+                            "Scott W. Cunningham",
+                            "Gareth H. Davies",
+                            "Robert M. Davison",
+                            "Rahul Dé",
+                            "Denis Dennehy",
+                            "Yanqing Duan",
+                            "Rameshwar Dubey",
+                            "Rohita Dwivedi",
+                            "John S. Edwards",
+                            "Carlos Flavián",
+                            "Robin Gauld",
+                            "Varun Grover",
+                            "Mei‐Chih Hu",
+                            "Marijn Janssen",
+                            "Paul Jones",
+                            "Iris Junglas",
+                            "Sangeeta Khorana",
+                            "Sascha Kraus",
+                            "Kai R. Larsen",
+                            "Paul Latreille",
+                            "Sven Laumer",
+                            "Tegwen Malik",
+                            "Abbas Mardani",
+                            "Marcello Mariani",
+                            "Sunil Mithas",
+                            "Emmanuel Mogaji",
+                            "Jeretta Horn Nord",
+                            "Siobhán O’Connor",
+                            "Fevzi Okumus",
+                            "Margherita Pagani",
+                            "Neeraj Pandey",
+                            "Savvas Papagiannidis",
+                            "Ilias O. Pappas",
+                            "Nishith Pathak",
+                            "Jan Pries‐Heje",
+                            "Ramakrishnan Raman",
+                            "Nripendra P. Rana",
+                            "Sven‐Volker Rehm",
+                            "Samuel Ribeiro‐Navarrete",
+                            "Alexander Richter",
+                            "Frantz Rowe",
+                            "Suprateek Sarker",
+                            "Bernd Carsten Stahl",
+                            "Manoj Tiwari",
+                            "Wil van der Aalst",
+                            "Viswanath Venkatesh",
+                            "Giampaolo Viglia",
+                            "Michael Wade",
+                            "Paul Walton",
+                            "Jochen Wirtz",
+                            "Ryan Wright"
+                        ],
+                        "abstract": "No abstract available.",
+                        "pub_year": 2023,
+                        "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+                        "keywords": [
+                            "Transformative learning",
+                            "Generative grammar",
+                            "Knowledge management",
+                            "Hospitality",
+                            "Engineering ethics"
+                        ]
+                    },
+                    {
+                        "title": "2023 Alzheimer's disease facts and figures",
+                        "author": [],
+                        "abstract": "Abstract This article describes the public health impact of Alzheimer's disease, including prevalence and incidence, mortality and morbidity, use and costs of care, and the overall impact on family caregivers, the dementia workforce and society. The Special Report examines the patient journey fro...",
+                        "pub_year": 2023,
+                        "url": "https://doi.org/10.1002/alz.13016",
+                        "keywords": [
+                            "Dementia",
+                            "Medicine",
+                            "Disease",
+                            "Pandemic",
+                            "Gerontology"
+                        ]
+                    },
+                    {
+                        "title": "Chatting and cheating: Ensuring academic integrity in the era of ChatGPT",
+                        "author": [
+                            "Debby Cotton",
+                            "Peter A. Cotton",
+                            "J. Reuben Shipway"
+                        ],
+                        "abstract": "The use of artificial intelligence in academia is a hot topic in the education field. ChatGPT is an AI tool that offers a range of benefits, including increased student engagement, collaboration, and accessibility. However, is also raises concerns regarding academic honesty and plagiarism. This p...",
+                        "pub_year": 2023,
+                        "url": "https://doi.org/10.1080/14703297.2023.2190148",
+                        "keywords": [
+                            "Cheating",
+                            "Academic dishonesty",
+                            "Academic integrity",
+                            "Honesty",
+                            "Engineering ethics"
+                        ]
+                    },
+                    {
+                        "title": "Global, regional, and national burden of osteoarthritis, 1990–2020 and projections to 2050: a systematic analysis for the Global Burden of Disease Study 2021",
+                        "author": [
+                            "Jaimie D Steinmetz",
+                            "Garland T Culbreth",
+                            "Teklehaimanot Gereziher Haile",
+                            "Quinn Rafferty",
+                            "Justin Lo",
+                            "Kai Fukutaki",
+                            "Jessica A Cruz",
+                            "Amanda Smith",
+                            "Dan J. Stein",
+                            "Peter Brooks",
+                            "Marita Cross",
+                            "Anthony D. Woolf",
+                            "Hailey Hagins",
+                            "Mohsen Abbasi‐Kangevari",
+                            "Aidin Abedi",
+                            "Ilana N. Ackerman",
+                            "Hubert Amu",
+                            "Benny Antony",
+                            "Jalal Arabloo",
+                            "Aleksandr Y. Aravkin",
+                            "Ayele Mamo",
+                            "Anton A Artamonov",
+                            "Tahira Ashraf",
+                            "Amadou Barrow",
+                            "Lindsay Bearne",
+                            "Isabela M. Benseñor",
+                            "Alemshet Yirga Berhie",
+                            "Nikha Bhardwaj",
+                            "Pankaj Bhardwaj",
+                            "Vijayalakshmi S Bhojaraja",
+                            "Ali Bijani",
+                            "Paul Svitil Briant",
+                            "Andrew M. Briggs",
+                            "Nadeem Shafique Butt",
+                            "Jaykaran Charan",
+                            "Vijay Kumar Chattu",
+                            "Flavia Cicuttini",
+                            "Kaleb Coberly",
+                            "Omid Dadras",
+                            "Xiaochen Dai",
+                            "Lalit Dandona",
+                            "Rakhi Dandona",
+                            "Katie de Luca",
+                            "Edgar Denova‐Gutiérrez",
+                            "Samath Dhamminda Dharmaratne",
+                            "Meghnath Dhimal",
+                            "Mostafa Dianatinasab",
+                            "Karsten E Dreinhoefer",
+                            "Muhammed Elhadi",
+                            "Umar Farooque",
+                            "Hamid Reza Farpour",
+                            "Irina Filip",
+                            "Florian Fischer",
+                            "Marisa Freitas",
+                            "Balasankar Ganesan",
+                            "Belete Negese",
+                            "Tamiru Getachew",
+                            "Seyyed‐Hadi Ghamari",
+                            "Ahmad Ghashghaee",
+                            "Tiffany K. Gill",
+                            "Mahaveer Golechha",
+                            "Davide Golinelli",
+                            "Bhawna Gupta",
+                            "Veer Bala Gupta",
+                            "Vivek Gupta",
+                            "Rasool Haddadi",
+                            "Nima Hafezi‐Nejad",
+                            "Rabih Halwani",
+                            "Samer Hamidi",
+                            "Asif Hanif",
+                            "Netanja I. Harlianto",
+                            "Josep María Haro",
+                            "Jan Hartvigsen",
+                            "Simon I Hay",
+                            "Jeffrey J. Hébert",
+                            "Golnaz Heidari",
+                            "Mohammad‐Salar Hosseini",
+                            "Mehdi Hosseinzadeh",
+                            "Alexander Kevin Hsiao",
+                            "Irena Ilić",
+                            "Milena Ilić",
+                            "Louis Jacob",
+                            "Ranil Jayawardena",
+                            "Ravi Prakash Jha",
+                            "Jost B. Jonas",
+                            "Nitin Joseph",
+                            "Himal Kandel",
+                            "Ibraheem M. Karaye",
+                            "Mohammad Jobair Khan",
+                            "Young‐Eun Kim",
+                            "Ali‐Asghar Kolahi",
+                            "Oleksii Korzh",
+                            "Rajasekaran Koteeswaran",
+                            "Vijay Krishnamoorthy",
+                            "G Anil Kumar",
+                            "Narinder Kumar",
+                            "Sang-woong Lee",
+                            "Stephen S Lim",
+                            "Stany W. Lobo",
+                            "Giancarlo Lucchetti"
+                        ],
+                        "abstract": "No abstract available.",
+                        "pub_year": 2023,
+                        "url": "https://doi.org/10.1016/s2665-9913(23)00163-7",
+                        "keywords": [
+                            "Burden of disease",
+                            "Disease",
+                            "Medicine",
+                            "Disease burden",
+                            "Osteoarthritis"
+                        ]
+                    }
+                ]
+            },
+            {
+                "year": 2024,
+                "count": 13899,
+                "top_articles": [
+                    {
+                        "title": "Balancing Privacy and Progress: A Review of Privacy Challenges, Systemic Oversight, and Patient Perceptions in AI-Driven Healthcare",
+                        "author": [
+                            "S. Williamson",
+                            "Victor R. Prybutok"
+                        ],
+                        "abstract": "Integrating Artificial Intelligence (AI) in healthcare represents a transformative shift with substantial potential for enhancing patient care. This paper critically examines this integration, confronting significant ethical, legal, and technological challenges, particularly in patient privacy, d...",
+                        "pub_year": 2024,
+                        "url": "https://doi.org/10.3390/app14020675",
+                        "keywords": [
+                            "Health care",
+                            "Autonomy",
+                            "Confidentiality",
+                            "Transformative learning",
+                            "Information privacy"
+                        ]
+                    },
+                    {
+                        "title": "Autoencoders and their applications in machine learning: a survey",
+                        "author": [
+                            "Kamal Berahmand",
+                            "Fatemeh Daneshfar",
+                            "Elaheh Sadat Salehi",
+                            "Yuefeng Li",
+                            "Yue Xu"
+                        ],
+                        "abstract": "Abstract Autoencoders have become a hot researched topic in unsupervised learning due to their ability to learn data features and act as a dimensionality reduction method. With rapid evolution of autoencoder methods, there has yet to be a complete study that provides a full autoencoders roadmap f...",
+                        "pub_year": 2024,
+                        "url": "https://doi.org/10.1007/s10462-023-10662-6",
+                        "keywords": [
+                            "Autoencoder",
+                            "Computer science",
+                            "Artificial intelligence",
+                            "Machine learning",
+                            "Dimensionality reduction"
+                        ]
+                    },
+                    {
+                        "title": "APOE4/4 is linked to damaging lipid droplets in Alzheimer’s disease microglia",
+                        "author": [
+                            "Michael S. Haney",
+                            "Róbert Pálovics",
+                            "Christy Munson",
+                            "Chris M. Long",
+                            "Patrik K. Johansson",
+                            "Oscar Yip",
+                            "Wentao Dong",
+                            "Eshaan S. Rawat",
+                            "Elizabeth West",
+                            "Johannes C. M. Schlachetzki",
+                            "Andy P. Tsai",
+                            "Ian H. Guldner",
+                            "Bhawika S. Lamichhane",
+                            "Amanda Smith",
+                            "Nicholas Schaum",
+                            "Kruti Calcuttawala",
+                            "Andrew Shin",
+                            "Yung-Hua Wang",
+                            "Chengzhong Wang",
+                            "Nicole Koutsodendris",
+                            "Geidy E. Serrano",
+                            "Thomas G. Beach",
+                            "Eric M. Reiman",
+                            "Christopher K. Glass",
+                            "Monther Abu-Remaileh",
+                            "Annika Enejder",
+                            "Yadong Huang",
+                            "Tony Wyss‐Coray"
+                        ],
+                        "abstract": "Abstract Several genetic risk factors for Alzheimer’s disease implicate genes involved in lipid metabolism and many of these lipid genes are highly expressed in glial cells 1 . However, the relationship between lipid metabolism in glia and Alzheimer’s disease pathology remains poorly understood. ...",
+                        "pub_year": 2024,
+                        "url": "https://doi.org/10.1038/s41586-024-07185-7",
+                        "keywords": [
+                            "Microglia",
+                            "Apolipoprotein E",
+                            "Lipid metabolism",
+                            "Neurotoxicity",
+                            "Lipid droplet"
+                        ]
+                    },
+                    {
+                        "title": "Blockchain-Enabled Security Solutions for Medical Device Integrity and Provenance in Cloud Environments",
+                        "author": [
+                            "Omolola Akinola",
+                            "Akintunde Akinola",
+                            "Bairat Oyekan",
+                            "Omowunmi Oyerinde",
+                            "Halimat Folashade Adebiyi",
+                            "Busola Sulaimon"
+                        ],
+                        "abstract": "The current period of medicine using digital technology for patient care presents a new level of integration of monitoring devices with the cloud computing environment that enables the collection, storage and access to data in ways that were never possible earlier. As the obvious part of this dev...",
+                        "pub_year": 2024,
+                        "url": "https://doi.org/10.38124/ijisrt/ijisrt24apr225",
+                        "keywords": [
+                            "Cloud computing",
+                            "Computer science",
+                            "Data integrity",
+                            "Traceability",
+                            "Blockchain"
+                        ]
+                    },
+                    {
+                        "title": "Handbook of Research on K-12 Online and Blended Learning",
+                        "author": [
+                            "Richard E. Ferdig",
+                            "Kathryn Kennedy"
+                        ],
+                        "abstract": "he Handbook of Research on K-12 Online and Blended Learning is an edited collection of chapters that sets out to present the current state of research in K-12 online and blended learning. The beginning chapters lay the groundwork of the historical, international, and political landscape as well a...",
+                        "pub_year": 2024,
+                        "url": "https://doi.org/10.1184/r1/6686810.v1",
+                        "keywords": [
+                            "Conversation",
+                            "Scope (computer science)",
+                            "Blended learning",
+                            "Resource (disambiguation)",
+                            "Computer science"
+                        ]
+                    }
+                ]
+            },
+            {
+                "year": 2025,
+                "count": 9570,
+                "top_articles": [
+                    {
+                        "title": "Tackling the Algorithmic Control Crisis -- the Technical, Legal, and Ethical Challenges of Research into Algorithmic Agents",
+                        "author": [
+                            "Balázs Bodó",
+                            "Natali Helberger",
+                            "Kristina Irion",
+                            "K Zuiderveen Borgesius",
+                            "Judith Möller",
+                            "Bob van de Velde",
+                            "Nadine Bol",
+                            "B van Es",
+                            "Claes H. de Vreese"
+                        ],
+                        "abstract": "Algorithmic agents permeate every instant of our online existence. Based on our digital profiles built from the massive surveillance of our digital existence, algorithmic agents rank search results, filter our emails, hide and show news items on social networks feeds, try to guess what products w...",
+                        "pub_year": 2025,
+                        "url": "https://doi.org/10.48550/arxiv.2510.25337",
+                        "keywords": [
+                            "Computer science",
+                            "BitTorrent tracker",
+                            "Internet privacy",
+                            "Control (management)",
+                            "Filter (signal processing)"
+                        ]
+                    },
+                    {
+                        "title": "Outcasting: Enforcement in Domestic and International Law",
+                        "author": [
+                            "Oona A. Hathaway",
+                            "Scott J. Shapiro"
+                        ],
+                        "abstract": "This Article offers a new way to understand the enforcement of domestic and international law that we call “outcasting.” Unlike the distinctive method that modern states use to enforce their law, outcasting is nonviolent: it does not rely on bureaucratic organizations, such as police or militia, ...",
+                        "pub_year": 2025,
+                        "url": "https://doi.org/10.31219/osf.io/fpq7z_v1",
+                        "keywords": [
+                            "Law",
+                            "Enforcement",
+                            "Business",
+                            "Municipal law",
+                            "Political science"
+                        ]
+                    },
+                    {
+                        "title": "Smart Contracts, Bitcoin Bots, and Consumer Protection",
+                        "author": [
+                            "Joshua Fairfield"
+                        ],
+                        "abstract": "No abstract available.",
+                        "pub_year": 2025,
+                        "url": "https://doi.org/10.2139/ssrn.5281417",
+                        "keywords": [
+                            "Business",
+                            "Intermediary",
+                            "Commerce",
+                            "Cryptocurrency",
+                            "Ledger"
+                        ]
+                    },
+                    {
+                        "title": "CMMI for Services, Version 1.2",
+                        "author": [
+                            "Cmmi Product Team"
+                        ],
+                        "abstract": "CMMI for Services (CMMI-SVC) is a model that provides guidance to service provider organizations for establishing, managing, and delivering services. The model focuses on service provider processes and integrates bodies of knowledge that are essential for successful service delivery. CMMI-SVC pro...",
+                        "pub_year": 2025,
+                        "url": "https://doi.org/10.1184/r1/6572360",
+                        "keywords": [
+                            "Capability Maturity Model Integration",
+                            "LeanCMMI",
+                            "Maturity (psychological)",
+                            "Capability Maturity Model",
+                            "Process management"
+                        ]
+                    },
+                    {
+                        "title": "Fundamentals and Advances in Stimuli-Responsive Hydrogels and Their Applications: A Review",
+                        "author": [
+                            "Iryna Protsak",
+                            "Yevhenii M. Morozov"
+                        ],
+                        "abstract": "This review summarizes the fundamental concepts, recent advancements, and emerging trends in the field of stimuli-responsive hydrogels. While numerous reviews exist on this topic, the field continues to evolve dynamically, and certain research directions are often overlooked. To address this, we ...",
+                        "pub_year": 2025,
+                        "url": "https://doi.org/10.3390/gels11010030",
+                        "keywords": [
+                            "Self-healing hydrogels",
+                            "Nanotechnology",
+                            "Computer science",
+                            "Drug delivery",
+                            "Soft robotics"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
